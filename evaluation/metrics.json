@@ -1,0 +1,9 @@
+{
+  "evaluation_type": "synthetic held-out templates",
+  "training_examples": 1296,
+  "test_examples": 432,
+  "accuracy": 0.8333333333333334,
+  "macro_f1": 0.8315554565554567,
+  "model": "rule-assisted LinearSVC",
+  "clinical_validation": false
+}

@@ -1,0 +1,284 @@
+text,labels
+I have gonorrhea,topics:gonorrhoea
+Could you explain gonorrhea?,topics:gonorrhoea
+I am worried about gonorrhea,topics:gonorrhoea
+Tell me about gonorrhea,topics:gonorrhoea
+What if there is gonorrhea?,topics:gonorrhoea
+I have gonorrhoea,topics:gonorrhoea
+Could you explain gonorrhoea?,topics:gonorrhoea
+I am worried about gonorrhoea,topics:gonorrhoea
+Tell me about gonorrhoea,topics:gonorrhoea
+What if there is gonorrhoea?,topics:gonorrhoea
+I have kisonono,topics:gonorrhoea
+Could you explain kisonono?,topics:gonorrhoea
+I am worried about kisonono,topics:gonorrhoea
+Tell me about kisonono,topics:gonorrhoea
+What if there is kisonono?,topics:gonorrhoea
+I have chlamydia,topics:chlamydia
+Could you explain chlamydia?,topics:chlamydia
+I am worried about chlamydia,topics:chlamydia
+Tell me about chlamydia,topics:chlamydia
+What if there is chlamydia?,topics:chlamydia
+I have infection with chlamydia,topics:chlamydia
+Could you explain infection with chlamydia?,topics:chlamydia
+I am worried about infection with chlamydia,topics:chlamydia
+Tell me about infection with chlamydia,topics:chlamydia
+What if there is infection with chlamydia?,topics:chlamydia
+I have syphilis,topics:syphilis
+Could you explain syphilis?,topics:syphilis
+I am worried about syphilis,topics:syphilis
+Tell me about syphilis,topics:syphilis
+What if there is syphilis?,topics:syphilis
+I have kaswende,topics:syphilis
+Could you explain kaswende?,topics:syphilis
+I am worried about kaswende,topics:syphilis
+Tell me about kaswende,topics:syphilis
+What if there is kaswende?,topics:syphilis
+I have HIV,topics:hiv
+Could you explain HIV?,topics:hiv
+I am worried about HIV,topics:hiv
+Tell me about HIV,topics:hiv
+What if there is HIV?,topics:hiv
+I have ukimwi,topics:hiv
+Could you explain ukimwi?,topics:hiv
+I am worried about ukimwi,topics:hiv
+Tell me about ukimwi,topics:hiv
+What if there is ukimwi?,topics:hiv
+I have genital herpes,topics:herpes
+Could you explain genital herpes?,topics:herpes
+I am worried about genital herpes,topics:herpes
+Tell me about genital herpes,topics:herpes
+What if there is genital herpes?,topics:herpes
+I have herpes,topics:herpes
+Could you explain herpes?,topics:herpes
+I am worried about herpes,topics:herpes
+Tell me about herpes,topics:herpes
+What if there is herpes?,topics:herpes
+I have HPV,topics:hpv
+Could you explain HPV?,topics:hpv
+I am worried about HPV,topics:hpv
+Tell me about HPV,topics:hpv
+What if there is HPV?,topics:hpv
+I have human papillomavirus,topics:hpv
+Could you explain human papillomavirus?,topics:hpv
+I am worried about human papillomavirus,topics:hpv
+Tell me about human papillomavirus,topics:hpv
+What if there is human papillomavirus?,topics:hpv
+I have trichomoniasis,topics:trichomoniasis
+Could you explain trichomoniasis?,topics:trichomoniasis
+I am worried about trichomoniasis,topics:trichomoniasis
+Tell me about trichomoniasis,topics:trichomoniasis
+What if there is trichomoniasis?,topics:trichomoniasis
+I have trich,topics:trichomoniasis
+Could you explain trich?,topics:trichomoniasis
+I am worried about trich,topics:trichomoniasis
+Tell me about trich,topics:trichomoniasis
+What if there is trich?,topics:trichomoniasis
+I have itchy private parts,symptoms:genital_itching
+Could you explain itchy private parts?,symptoms:genital_itching
+I am worried about itchy private parts,symptoms:genital_itching
+Tell me about itchy private parts,symptoms:genital_itching
+What if there is itchy private parts?,symptoms:genital_itching
+I have itching around my genitals,symptoms:genital_itching
+Could you explain itching around my genitals?,symptoms:genital_itching
+I am worried about itching around my genitals,symptoms:genital_itching
+Tell me about itching around my genitals,symptoms:genital_itching
+What if there is itching around my genitals?,symptoms:genital_itching
+I have vagina is itching,symptoms:genital_itching
+Could you explain vagina is itching?,symptoms:genital_itching
+I am worried about vagina is itching,symptoms:genital_itching
+Tell me about vagina is itching,symptoms:genital_itching
+What if there is vagina is itching?,symptoms:genital_itching
+I have kuwashwa sehemu za siri,symptoms:genital_itching
+Could you explain kuwashwa sehemu za siri?,symptoms:genital_itching
+I am worried about kuwashwa sehemu za siri,symptoms:genital_itching
+Tell me about kuwashwa sehemu za siri,symptoms:genital_itching
+What if there is kuwashwa sehemu za siri?,symptoms:genital_itching
+I have my penis itches,symptoms:genital_itching
+Could you explain my penis itches?,symptoms:genital_itching
+I am worried about my penis itches,symptoms:genital_itching
+Tell me about my penis itches,symptoms:genital_itching
+What if there is my penis itches?,symptoms:genital_itching
+I have pain while urinating,symptoms:dysuria
+Could you explain pain while urinating?,symptoms:dysuria
+I am worried about pain while urinating,symptoms:dysuria
+Tell me about pain while urinating,symptoms:dysuria
+What if there is pain while urinating?,symptoms:dysuria
+I have burns when I pee,symptoms:dysuria
+Could you explain burns when I pee?,symptoms:dysuria
+I am worried about burns when I pee,symptoms:dysuria
+Tell me about burns when I pee,symptoms:dysuria
+What if there is burns when I pee?,symptoms:dysuria
+I have pain when passing urine,symptoms:dysuria
+Could you explain pain when passing urine?,symptoms:dysuria
+I am worried about pain when passing urine,symptoms:dysuria
+Tell me about pain when passing urine,symptoms:dysuria
+What if there is pain when passing urine?,symptoms:dysuria
+I have maumivu nikikojoa,symptoms:dysuria
+Could you explain maumivu nikikojoa?,symptoms:dysuria
+I am worried about maumivu nikikojoa,symptoms:dysuria
+Tell me about maumivu nikikojoa,symptoms:dysuria
+What if there is maumivu nikikojoa?,symptoms:dysuria
+I have stinging while peeing,symptoms:dysuria
+Could you explain stinging while peeing?,symptoms:dysuria
+I am worried about stinging while peeing,symptoms:dysuria
+Tell me about stinging while peeing,symptoms:dysuria
+What if there is stinging while peeing?,symptoms:dysuria
+I have yellow vaginal discharge,symptoms:genital_discharge
+Could you explain yellow vaginal discharge?,symptoms:genital_discharge
+I am worried about yellow vaginal discharge,symptoms:genital_discharge
+Tell me about yellow vaginal discharge,symptoms:genital_discharge
+What if there is yellow vaginal discharge?,symptoms:genital_discharge
+I have discharge from my penis,symptoms:genital_discharge
+Could you explain discharge from my penis?,symptoms:genital_discharge
+I am worried about discharge from my penis,symptoms:genital_discharge
+Tell me about discharge from my penis,symptoms:genital_discharge
+What if there is discharge from my penis?,symptoms:genital_discharge
+I have unusual genital discharge,symptoms:genital_discharge
+Could you explain unusual genital discharge?,symptoms:genital_discharge
+I am worried about unusual genital discharge,symptoms:genital_discharge
+Tell me about unusual genital discharge,symptoms:genital_discharge
+What if there is unusual genital discharge?,symptoms:genital_discharge
+I have uchafu sehemu za siri,symptoms:genital_discharge
+Could you explain uchafu sehemu za siri?,symptoms:genital_discharge
+I am worried about uchafu sehemu za siri,symptoms:genital_discharge
+Tell me about uchafu sehemu za siri,symptoms:genital_discharge
+What if there is uchafu sehemu za siri?,symptoms:genital_discharge
+I have pain in my pelvis,symptoms:pelvic_pain
+Could you explain pain in my pelvis?,symptoms:pelvic_pain
+I am worried about pain in my pelvis,symptoms:pelvic_pain
+Tell me about pain in my pelvis,symptoms:pelvic_pain
+What if there is pain in my pelvis?,symptoms:pelvic_pain
+I have lower abdominal pain,symptoms:pelvic_pain
+Could you explain lower abdominal pain?,symptoms:pelvic_pain
+I am worried about lower abdominal pain,symptoms:pelvic_pain
+Tell me about lower abdominal pain,symptoms:pelvic_pain
+What if there is lower abdominal pain?,symptoms:pelvic_pain
+I have maumivu ya nyonga,symptoms:pelvic_pain
+Could you explain maumivu ya nyonga?,symptoms:pelvic_pain
+I am worried about maumivu ya nyonga,symptoms:pelvic_pain
+Tell me about maumivu ya nyonga,symptoms:pelvic_pain
+What if there is maumivu ya nyonga?,symptoms:pelvic_pain
+I have my testicles hurt,symptoms:testicular_pain
+Could you explain my testicles hurt?,symptoms:testicular_pain
+I am worried about my testicles hurt,symptoms:testicular_pain
+Tell me about my testicles hurt,symptoms:testicular_pain
+What if there is my testicles hurt?,symptoms:testicular_pain
+I have painful testicle,symptoms:testicular_pain
+Could you explain painful testicle?,symptoms:testicular_pain
+I am worried about painful testicle,symptoms:testicular_pain
+Tell me about painful testicle,symptoms:testicular_pain
+What if there is painful testicle?,symptoms:testicular_pain
+I have maumivu ya korodani,symptoms:testicular_pain
+Could you explain maumivu ya korodani?,symptoms:testicular_pain
+I am worried about maumivu ya korodani,symptoms:testicular_pain
+Tell me about maumivu ya korodani,symptoms:testicular_pain
+What if there is maumivu ya korodani?,symptoms:testicular_pain
+I have sores on my genitals,symptoms:genital_sores
+Could you explain sores on my genitals?,symptoms:genital_sores
+I am worried about sores on my genitals,symptoms:genital_sores
+Tell me about sores on my genitals,symptoms:genital_sores
+What if there is sores on my genitals?,symptoms:genital_sores
+I have ulcers on my penis,symptoms:genital_sores
+Could you explain ulcers on my penis?,symptoms:genital_sores
+I am worried about ulcers on my penis,symptoms:genital_sores
+Tell me about ulcers on my penis,symptoms:genital_sores
+What if there is ulcers on my penis?,symptoms:genital_sores
+I have vidonda sehemu za siri,symptoms:genital_sores
+Could you explain vidonda sehemu za siri?,symptoms:genital_sores
+I am worried about vidonda sehemu za siri,symptoms:genital_sores
+Tell me about vidonda sehemu za siri,symptoms:genital_sores
+What if there is vidonda sehemu za siri?,symptoms:genital_sores
+I have rash on skin,symptoms:rash
+Could you explain rash on skin?,symptoms:rash
+I am worried about rash on skin,symptoms:rash
+Tell me about rash on skin,symptoms:rash
+What if there is rash on skin?,symptoms:rash
+I have upele,symptoms:rash
+Could you explain upele?,symptoms:rash
+I am worried about upele,symptoms:rash
+Tell me about upele,symptoms:rash
+What if there is upele?,symptoms:rash
+I have high fever,symptoms:fever
+Could you explain high fever?,symptoms:fever
+I am worried about high fever,symptoms:fever
+Tell me about high fever,symptoms:fever
+What if there is high fever?,symptoms:fever
+I have homa,symptoms:fever
+Could you explain homa?,symptoms:fever
+I am worried about homa,symptoms:fever
+Tell me about homa,symptoms:fever
+What if there is homa?,symptoms:fever
+I have yellow urine,symptoms:yellow_urine
+Could you explain yellow urine?,symptoms:yellow_urine
+I am worried about yellow urine,symptoms:yellow_urine
+Tell me about yellow urine,symptoms:yellow_urine
+What if there is yellow urine?,symptoms:yellow_urine
+I have urine looks yellow,symptoms:yellow_urine
+Could you explain urine looks yellow?,symptoms:yellow_urine
+I am worried about urine looks yellow,symptoms:yellow_urine
+Tell me about urine looks yellow,symptoms:yellow_urine
+What if there is urine looks yellow?,symptoms:yellow_urine
+I have mkojo wa njano,symptoms:yellow_urine
+Could you explain mkojo wa njano?,symptoms:yellow_urine
+I am worried about mkojo wa njano,symptoms:yellow_urine
+Tell me about mkojo wa njano,symptoms:yellow_urine
+What if there is mkojo wa njano?,symptoms:yellow_urine
+I have unprotected sex,exposures:unprotected_sex
+Could you explain unprotected sex?,exposures:unprotected_sex
+I am worried about unprotected sex,exposures:unprotected_sex
+Tell me about unprotected sex,exposures:unprotected_sex
+What if there is unprotected sex?,exposures:unprotected_sex
+I have sex without a condom,exposures:unprotected_sex
+Could you explain sex without a condom?,exposures:unprotected_sex
+I am worried about sex without a condom,exposures:unprotected_sex
+Tell me about sex without a condom,exposures:unprotected_sex
+What if there is sex without a condom?,exposures:unprotected_sex
+I have ngono bila kondomu,exposures:unprotected_sex
+Could you explain ngono bila kondomu?,exposures:unprotected_sex
+I am worried about ngono bila kondomu,exposures:unprotected_sex
+Tell me about ngono bila kondomu,exposures:unprotected_sex
+What if there is ngono bila kondomu?,exposures:unprotected_sex
+I have oral sex,exposures:oral_sex
+Could you explain oral sex?,exposures:oral_sex
+I am worried about oral sex,exposures:oral_sex
+Tell me about oral sex,exposures:oral_sex
+What if there is oral sex?,exposures:oral_sex
+I have ngono ya mdomo,exposures:oral_sex
+Could you explain ngono ya mdomo?,exposures:oral_sex
+I am worried about ngono ya mdomo,exposures:oral_sex
+Tell me about ngono ya mdomo,exposures:oral_sex
+What if there is ngono ya mdomo?,exposures:oral_sex
+I have a new sexual partner,exposures:new_partner
+Could you explain a new sexual partner?,exposures:new_partner
+I am worried about a new sexual partner,exposures:new_partner
+Tell me about a new sexual partner,exposures:new_partner
+What if there is a new sexual partner?,exposures:new_partner
+I have mwenza mpya,exposures:new_partner
+Could you explain mwenza mpya?,exposures:new_partner
+I am worried about mwenza mpya,exposures:new_partner
+Tell me about mwenza mpya,exposures:new_partner
+What if there is mwenza mpya?,exposures:new_partner
+I have new partner,exposures:new_partner
+Could you explain new partner?,exposures:new_partner
+I am worried about new partner,exposures:new_partner
+Tell me about new partner,exposures:new_partner
+What if there is new partner?,exposures:new_partner
+Thank you,
+What is an STI?,
+Where can I get a test?,
+What are prevention methods?,
+How long is the window period?,
+I need treatment advice,
+Yellow shirt,
+I have a headache,
+My urine is clear,
+I have questions about gonorrhea and chlamydia,topics:gonorrhoea;topics:chlamydia
+I have questions about syphilis and HIV,topics:syphilis;topics:hiv
+I have questions about genital herpes and HPV,topics:herpes;topics:hpv
+I have questions about trichomoniasis and itchy private parts,topics:trichomoniasis;symptoms:genital_itching
+I have questions about pain while urinating and yellow vaginal discharge,symptoms:dysuria;symptoms:genital_discharge
+I have questions about pain in my pelvis and my testicles hurt,symptoms:pelvic_pain;symptoms:testicular_pain
+I have questions about sores on my genitals and rash on skin,symptoms:genital_sores;symptoms:rash
+I have questions about high fever and yellow urine,symptoms:fever;symptoms:yellow_urine
+I have questions about unprotected sex and oral sex,exposures:unprotected_sex;exposures:oral_sex

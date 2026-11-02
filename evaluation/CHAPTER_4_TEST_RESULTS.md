@@ -1,0 +1,1 @@
+# V9 synthetic evaluation\n\nTraining: 1296. Test: 432. Accuracy: 0.833. Macro F1: 0.832.\n\nThese results are synthetic, not clinical validation.\n

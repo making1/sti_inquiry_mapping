@@ -1,0 +1,9 @@
+{
+  "dataset": "synthetic template examples",
+  "test_samples": 124,
+  "micro_precision": 1.0,
+  "micro_recall": 1.0,
+  "micro_f1": 1.0,
+  "threshold": 0.64,
+  "limitations": "Test shares phrase stems with training; not independent validation. Negation not modeled."
+}

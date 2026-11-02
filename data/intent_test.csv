@@ -1,0 +1,433 @@
+text,intent
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+What are sexually transmitted infections?,GENERAL_INFORMATION
+Where should I go for severe fainting with severe pain?,URGENT_HEALTH_CONCERN
+Why should a clinician choose STI medication?,MEDICATION
+Does STI testing have a window period?,WINDOW_PERIOD
+Explain how syphilis passes between people.,TRANSMISSION
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+What medication treats bacterial STIs?,MEDICATION
+When should someone seek an STI test?,TESTING
+Should I worry about pelvic pain?,SYMPTOMS
+I want an STI test; what should I do?,TESTING
+What are sexually transmitted infections?,GENERAL_INFORMATION
+How do I protect myself from infection?,PREVENTION
+I want an STI test; what should I do?,TESTING
+What is the treatment process for an STI?,TREATMENT
+Are STIs always obvious?,MISCONCEPTION
+Please correct this STI belief: washing after sex prevents infection.,MISCONCEPTION
+Tell me the symptoms of herpes.,SYMPTOMS
+Please correct this STI belief: you cannot have an STI without symptoms.,MISCONCEPTION
+Why should a clinician choose STI medication?,MEDICATION
+I want an STI test; what should I do?,TESTING
+Should I worry about burning when urinating?,SYMPTOMS
+How do I protect myself from infection?,PREVENTION
+When should someone seek an STI test?,TESTING
+When will an STI show on a test?,WINDOW_PERIOD
+How do I protect myself from infection?,PREVENTION
+Explain how chlamydia passes between people.,TRANSMISSION
+Where should I go for severe severe pelvic pain?,URGENT_HEALTH_CONCERN
+Tell me the symptoms of chlamydia.,SYMPTOMS
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+Give me general STI education.,GENERAL_INFORMATION
+What is the treatment process for an STI?,TREATMENT
+How can sexually active people prevent infection?,PREVENTION
+What is the treatment process for an STI?,TREATMENT
+I want an STI test; what should I do?,TESTING
+What are sexually transmitted infections?,GENERAL_INFORMATION
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+Give me general STI education.,GENERAL_INFORMATION
+How do I protect myself from infection?,PREVENTION
+What are sexually transmitted infections?,GENERAL_INFORMATION
+Give me general STI education.,GENERAL_INFORMATION
+I want an STI test; what should I do?,TESTING
+Should I worry about burning when urinating?,SYMPTOMS
+Explain how HPV passes between people.,TRANSMISSION
+How can sexually active people prevent infection?,PREVENTION
+Help me understand my risk after sex with a new partner.,EXPOSURE_RISK
+When will an STI show on a test?,WINDOW_PERIOD
+Help me understand my risk after anal sex.,EXPOSURE_RISK
+Give me general STI education.,GENERAL_INFORMATION
+What is the treatment process for an STI?,TREATMENT
+Are STIs always obvious?,MISCONCEPTION
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+Can infection spread through sex with a new partner?,TRANSMISSION
+Tell me the symptoms of gonorrhoea.,SYMPTOMS
+Can infection spread through sex with a new partner?,TRANSMISSION
+I want an STI test; what should I do?,TESTING
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+What happens after a positive HIV test?,TREATMENT
+When will an STI show on a test?,WINDOW_PERIOD
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+How can sexually active people prevent infection?,PREVENTION
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+Give me general STI education.,GENERAL_INFORMATION
+How can sexually active people prevent infection?,PREVENTION
+What are sexually transmitted infections?,GENERAL_INFORMATION
+What happens after a positive trichomoniasis test?,TREATMENT
+Please correct this STI belief: STIs only affect older people.,MISCONCEPTION
+Tell me the symptoms of chlamydia.,SYMPTOMS
+Please correct this STI belief: STIs only affect older people.,MISCONCEPTION
+Give me general STI education.,GENERAL_INFORMATION
+How can sexually active people prevent infection?,PREVENTION
+How can sexually active people prevent infection?,PREVENTION
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+Give me general STI education.,GENERAL_INFORMATION
+Are STIs always obvious?,MISCONCEPTION
+What is the treatment process for an STI?,TREATMENT
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+When will an STI show on a test?,WINDOW_PERIOD
+When will an STI show on a test?,WINDOW_PERIOD
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+What medication treats bacterial STIs?,MEDICATION
+What medication treats bacterial STIs?,MEDICATION
+Should I worry about unusual genital discharge?,SYMPTOMS
+Why should a clinician choose STI medication?,MEDICATION
+Why should a clinician choose STI medication?,MEDICATION
+When will an STI show on a test?,WINDOW_PERIOD
+Why should a clinician choose STI medication?,MEDICATION
+What medication treats bacterial STIs?,MEDICATION
+Help me understand my risk after oral sex.,EXPOSURE_RISK
+How can sexually active people prevent infection?,PREVENTION
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+Should I worry about unusual genital discharge?,SYMPTOMS
+When should someone seek an STI test?,TESTING
+When should someone seek an STI test?,TESTING
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+Give me general STI education.,GENERAL_INFORMATION
+Does STI testing have a window period?,WINDOW_PERIOD
+Why should a clinician choose STI medication?,MEDICATION
+Where should I go for severe high fever and pelvic pain?,URGENT_HEALTH_CONCERN
+What happens after a positive trichomoniasis test?,TREATMENT
+Where should I go for severe severe testicular pain?,URGENT_HEALTH_CONCERN
+Tell me the symptoms of gonorrhoea.,SYMPTOMS
+Are STIs always obvious?,MISCONCEPTION
+Are STIs always obvious?,MISCONCEPTION
+Where should I go for severe severe testicular pain?,URGENT_HEALTH_CONCERN
+How do I protect myself from infection?,PREVENTION
+Does STI testing have a window period?,WINDOW_PERIOD
+Tell me the symptoms of syphilis.,SYMPTOMS
+What happens after a positive herpes test?,TREATMENT
+When should someone seek an STI test?,TESTING
+Give me general STI education.,GENERAL_INFORMATION
+Help me understand my risk after oral sex.,EXPOSURE_RISK
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+Where should I go for severe high fever and pelvic pain?,URGENT_HEALTH_CONCERN
+Should I worry about genital sores?,SYMPTOMS
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+Can infection spread through a condom breaking?,TRANSMISSION
+Help me understand my risk after sex with a new partner.,EXPOSURE_RISK
+How do I protect myself from infection?,PREVENTION
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+What medication treats bacterial STIs?,MEDICATION
+Can infection spread through unprotected vaginal sex?,TRANSMISSION
+Does STI testing have a window period?,WINDOW_PERIOD
+Give me general STI education.,GENERAL_INFORMATION
+What happens after a positive herpes test?,TREATMENT
+How can sexually active people prevent infection?,PREVENTION
+Why should a clinician choose STI medication?,MEDICATION
+How do I protect myself from infection?,PREVENTION
+Does STI testing have a window period?,WINDOW_PERIOD
+I want an STI test; what should I do?,TESTING
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+Are STIs always obvious?,MISCONCEPTION
+Should I worry about unusual genital discharge?,SYMPTOMS
+Please correct this STI belief: STIs only affect older people.,MISCONCEPTION
+What is the treatment process for an STI?,TREATMENT
+Tell me the symptoms of HIV.,SYMPTOMS
+Explain how herpes passes between people.,TRANSMISSION
+I want an STI test; what should I do?,TESTING
+What are sexually transmitted infections?,GENERAL_INFORMATION
+Please correct this STI belief: washing after sex prevents infection.,MISCONCEPTION
+When should someone seek an STI test?,TESTING
+Are STIs always obvious?,MISCONCEPTION
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+What are sexually transmitted infections?,GENERAL_INFORMATION
+Explain how gonorrhoea passes between people.,TRANSMISSION
+Why should a clinician choose STI medication?,MEDICATION
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+Are STIs always obvious?,MISCONCEPTION
+Help me understand my risk after anal sex.,EXPOSURE_RISK
+Does STI testing have a window period?,WINDOW_PERIOD
+What are sexually transmitted infections?,GENERAL_INFORMATION
+Explain how gonorrhoea passes between people.,TRANSMISSION
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+When should someone seek an STI test?,TESTING
+Where should I go for severe severe testicular pain?,URGENT_HEALTH_CONCERN
+When will an STI show on a test?,WINDOW_PERIOD
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+Tell me the symptoms of HIV.,SYMPTOMS
+Does STI testing have a window period?,WINDOW_PERIOD
+When should someone seek an STI test?,TESTING
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+Does STI testing have a window period?,WINDOW_PERIOD
+When will an STI show on a test?,WINDOW_PERIOD
+What are sexually transmitted infections?,GENERAL_INFORMATION
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+Help me understand my risk after sex with a new partner.,EXPOSURE_RISK
+How do I protect myself from infection?,PREVENTION
+Can infection spread through unprotected vaginal sex?,TRANSMISSION
+Does STI testing have a window period?,WINDOW_PERIOD
+Give me general STI education.,GENERAL_INFORMATION
+Why should a clinician choose STI medication?,MEDICATION
+What medication treats bacterial STIs?,MEDICATION
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+What medication treats bacterial STIs?,MEDICATION
+What medication treats bacterial STIs?,MEDICATION
+Why should a clinician choose STI medication?,MEDICATION
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+What happens after a positive chlamydia test?,TREATMENT
+When should someone seek an STI test?,TESTING
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+Where should I go for severe severe testicular pain?,URGENT_HEALTH_CONCERN
+How do I protect myself from infection?,PREVENTION
+Can infection spread through sex with a new partner?,TRANSMISSION
+What are sexually transmitted infections?,GENERAL_INFORMATION
+I want an STI test; what should I do?,TESTING
+Why should a clinician choose STI medication?,MEDICATION
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+What are sexually transmitted infections?,GENERAL_INFORMATION
+Does STI testing have a window period?,WINDOW_PERIOD
+Please correct this STI belief: washing after sex prevents infection.,MISCONCEPTION
+Explain how HPV passes between people.,TRANSMISSION
+What medication treats bacterial STIs?,MEDICATION
+Please correct this STI belief: washing after sex prevents infection.,MISCONCEPTION
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+What is the treatment process for an STI?,TREATMENT
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+I want an STI test; what should I do?,TESTING
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+How can sexually active people prevent infection?,PREVENTION
+Tell me the symptoms of gonorrhoea.,SYMPTOMS
+Tell me the symptoms of syphilis.,SYMPTOMS
+Should I worry about itching?,SYMPTOMS
+What happens after a positive gonorrhoea test?,TREATMENT
+Can infection spread through a condom breaking?,TRANSMISSION
+What happens after a positive syphilis test?,TREATMENT
+Help me understand my risk after sex with a new partner.,EXPOSURE_RISK
+How can sexually active people prevent infection?,PREVENTION
+What are sexually transmitted infections?,GENERAL_INFORMATION
+Does STI testing have a window period?,WINDOW_PERIOD
+What are sexually transmitted infections?,GENERAL_INFORMATION
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+Help me understand my risk after sex with a new partner.,EXPOSURE_RISK
+How do I protect myself from infection?,PREVENTION
+Are STIs always obvious?,MISCONCEPTION
+Should I worry about unusual genital discharge?,SYMPTOMS
+Can infection spread through sex with a new partner?,TRANSMISSION
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+Tell me the symptoms of HPV.,SYMPTOMS
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+What happens after a positive gonorrhoea test?,TREATMENT
+What happens after a positive syphilis test?,TREATMENT
+Help me understand my risk after unprotected vaginal sex.,EXPOSURE_RISK
+Tell me the symptoms of syphilis.,SYMPTOMS
+Explain how HPV passes between people.,TRANSMISSION
+What happens after a positive herpes test?,TREATMENT
+I want an STI test; what should I do?,TESTING
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+Where should I go for severe severe testicular pain?,URGENT_HEALTH_CONCERN
+Tell me the symptoms of herpes.,SYMPTOMS
+Please correct this STI belief: you cannot have an STI without symptoms.,MISCONCEPTION
+I want an STI test; what should I do?,TESTING
+Give me general STI education.,GENERAL_INFORMATION
+Help me understand my risk after a condom breaking.,EXPOSURE_RISK
+How do I protect myself from infection?,PREVENTION
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+Please correct this STI belief: STIs only affect older people.,MISCONCEPTION
+Are STIs always obvious?,MISCONCEPTION
+Does STI testing have a window period?,WINDOW_PERIOD
+Please correct this STI belief: washing after sex prevents infection.,MISCONCEPTION
+How do I protect myself from infection?,PREVENTION
+Please correct this STI belief: two condoms are always safer than one.,MISCONCEPTION
+What is the treatment process for an STI?,TREATMENT
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+Tell me the symptoms of HPV.,SYMPTOMS
+What medication treats bacterial STIs?,MEDICATION
+I want an STI test; what should I do?,TESTING
+How can sexually active people prevent infection?,PREVENTION
+Give me general STI education.,GENERAL_INFORMATION
+How can sexually active people prevent infection?,PREVENTION
+How do I protect myself from infection?,PREVENTION
+When should someone seek an STI test?,TESTING
+Help me understand my risk after anal sex.,EXPOSURE_RISK
+Where should I go for severe severe testicular pain?,URGENT_HEALTH_CONCERN
+Where should I go for severe fainting with severe pain?,URGENT_HEALTH_CONCERN
+What is the treatment process for an STI?,TREATMENT
+Does STI testing have a window period?,WINDOW_PERIOD
+When will an STI show on a test?,WINDOW_PERIOD
+Why should a clinician choose STI medication?,MEDICATION
+Why should a clinician choose STI medication?,MEDICATION
+Why should a clinician choose STI medication?,MEDICATION
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+Where should I go for severe severe pelvic pain?,URGENT_HEALTH_CONCERN
+Explain how gonorrhoea passes between people.,TRANSMISSION
+Should I worry about unusual genital discharge?,SYMPTOMS
+What happens after a positive chlamydia test?,TREATMENT
+Where should I go for severe high fever and pelvic pain?,URGENT_HEALTH_CONCERN
+Should I worry about testicular pain?,SYMPTOMS
+Help me understand my risk after anal sex.,EXPOSURE_RISK
+Can infection spread through oral sex?,TRANSMISSION
+Are STIs always obvious?,MISCONCEPTION
+Give me general STI education.,GENERAL_INFORMATION
+What is the treatment process for an STI?,TREATMENT
+What are sexually transmitted infections?,GENERAL_INFORMATION
+Can infection spread through sex with a new partner?,TRANSMISSION
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+When will an STI show on a test?,WINDOW_PERIOD
+When will an STI show on a test?,WINDOW_PERIOD
+Give me general STI education.,GENERAL_INFORMATION
+What is the treatment process for an STI?,TREATMENT
+When should someone seek an STI test?,TESTING
+Why should a clinician choose STI medication?,MEDICATION
+Are STIs always obvious?,MISCONCEPTION
+How can sexually active people prevent infection?,PREVENTION
+When should someone seek an STI test?,TESTING
+Are STIs always obvious?,MISCONCEPTION
+What medication treats bacterial STIs?,MEDICATION
+Should I worry about genital sores?,SYMPTOMS
+Explain how HPV passes between people.,TRANSMISSION
+What medication treats bacterial STIs?,MEDICATION
+What is the treatment process for an STI?,TREATMENT
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+Should I worry about pelvic pain?,SYMPTOMS
+How do I protect myself from infection?,PREVENTION
+When will an STI show on a test?,WINDOW_PERIOD
+Give me general STI education.,GENERAL_INFORMATION
+When will an STI show on a test?,WINDOW_PERIOD
+Why should a clinician choose STI medication?,MEDICATION
+I want an STI test; what should I do?,TESTING
+Where should I go for severe high fever and pelvic pain?,URGENT_HEALTH_CONCERN
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+What medication treats bacterial STIs?,MEDICATION
+Explain how syphilis passes between people.,TRANSMISSION
+Does STI testing have a window period?,WINDOW_PERIOD
+Can infection spread through unprotected vaginal sex?,TRANSMISSION
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+Does STI testing have a window period?,WINDOW_PERIOD
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+Tell me the symptoms of trichomoniasis.,SYMPTOMS
+What is the treatment process for an STI?,TREATMENT
+When should someone seek an STI test?,TESTING
+Help me understand my risk after unprotected vaginal sex.,EXPOSURE_RISK
+Tell me the symptoms of syphilis.,SYMPTOMS
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+Where should I go for severe high fever and pelvic pain?,URGENT_HEALTH_CONCERN
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+Help me understand my risk after anal sex.,EXPOSURE_RISK
+Explain how HIV passes between people.,TRANSMISSION
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+How can sexually active people prevent infection?,PREVENTION
+I want an STI test; what should I do?,TESTING
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+What is the treatment process for an STI?,TREATMENT
+Should I worry about itching?,SYMPTOMS
+Help me understand my risk after sex with a new partner.,EXPOSURE_RISK
+Why should a clinician choose STI medication?,MEDICATION
+When should someone seek an STI test?,TESTING
+When will an STI show on a test?,WINDOW_PERIOD
+Give me general STI education.,GENERAL_INFORMATION
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+Please correct this STI belief: you cannot have an STI without symptoms.,MISCONCEPTION
+What medication treats bacterial STIs?,MEDICATION
+What happens after a positive syphilis test?,TREATMENT
+Can infection spread through unprotected vaginal sex?,TRANSMISSION
+Can infection spread through sex with a new partner?,TRANSMISSION
+When will an STI show on a test?,WINDOW_PERIOD
+I want an STI test; what should I do?,TESTING
+Are STIs always obvious?,MISCONCEPTION
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+How can sexually active people prevent infection?,PREVENTION
+How can sexually active people prevent infection?,PREVENTION
+When will an STI show on a test?,WINDOW_PERIOD
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+What are sexually transmitted infections?,GENERAL_INFORMATION
+When should someone seek an STI test?,TESTING
+How do I protect myself from infection?,PREVENTION
+Explain how trichomoniasis passes between people.,TRANSMISSION
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+When should someone seek an STI test?,TESTING
+What medication treats bacterial STIs?,MEDICATION
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+What happens after a positive herpes test?,TREATMENT
+Please correct this STI belief: STIs only affect older people.,MISCONCEPTION
+Tell me the symptoms of gonorrhoea.,SYMPTOMS
+What happens after a positive HPV test?,TREATMENT
+Should I worry about burning when urinating?,SYMPTOMS
+When will an STI show on a test?,WINDOW_PERIOD
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+Explain how HIV passes between people.,TRANSMISSION
+Please correct this STI belief: two condoms are always safer than one.,MISCONCEPTION
+When should someone seek an STI test?,TESTING
+Are STIs always obvious?,MISCONCEPTION
+Are STIs always obvious?,MISCONCEPTION
+What happens after a positive herpes test?,TREATMENT
+Does STI testing have a window period?,WINDOW_PERIOD
+What medication treats bacterial STIs?,MEDICATION
+Explain how herpes passes between people.,TRANSMISSION
+Where should I go for severe severe pelvic pain?,URGENT_HEALTH_CONCERN
+How can sexually active people prevent infection?,PREVENTION
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+Explain how HIV passes between people.,TRANSMISSION
+What happens after a positive HIV test?,TREATMENT
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+Where should I go for severe severe testicular pain?,URGENT_HEALTH_CONCERN
+How do I protect myself from infection?,PREVENTION
+What is the treatment process for an STI?,TREATMENT
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+Are STIs always obvious?,MISCONCEPTION
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+What are sexually transmitted infections?,GENERAL_INFORMATION
+What happens after a positive herpes test?,TREATMENT
+Does STI testing have a window period?,WINDOW_PERIOD
+When will an STI show on a test?,WINDOW_PERIOD
+Can infection spread through anal sex?,TRANSMISSION
+Please correct this STI belief: STIs only affect older people.,MISCONCEPTION
+Should recent partners be checked for infection?,PARTNER_NOTIFICATION
+Are STIs always obvious?,MISCONCEPTION
+Why should a clinician choose STI medication?,MEDICATION
+What are sexually transmitted infections?,GENERAL_INFORMATION
+Do I need immediate medical attention for severe STI symptoms?,URGENT_HEALTH_CONCERN
+I want an STI test; what should I do?,TESTING
+How do I protect myself from infection?,PREVENTION
+Can infection spread through unprotected vaginal sex?,TRANSMISSION
+Can infection spread through anal sex?,TRANSMISSION
+How can I discuss an STI with my partner?,PARTNER_NOTIFICATION
+What are sexually transmitted infections?,GENERAL_INFORMATION
+Can infection spread through unprotected vaginal sex?,TRANSMISSION
+I want an STI test; what should I do?,TESTING
+Please correct this STI belief: you cannot have an STI without symptoms.,MISCONCEPTION
+What is the treatment process for an STI?,TREATMENT
+What medication treats bacterial STIs?,MEDICATION
+Help me understand my risk after a condom breaking.,EXPOSURE_RISK
+Give me general STI education.,GENERAL_INFORMATION
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+How do I protect myself from infection?,PREVENTION
+What is the treatment process for an STI?,TREATMENT
+Explain how trichomoniasis passes between people.,TRANSMISSION
+How can sexually active people prevent infection?,PREVENTION
+Should I worry about testicular pain?,SYMPTOMS
+Can infection spread through oral sex?,TRANSMISSION
+Should I worry about pelvic pain?,SYMPTOMS
+Help me understand my risk after unprotected vaginal sex.,EXPOSURE_RISK
+What is the treatment process for an STI?,TREATMENT
+Should I worry about a genital rash?,SYMPTOMS
+Please correct this STI belief: STIs only affect older people.,MISCONCEPTION
+Tell me the symptoms of herpes.,SYMPTOMS
+Does STI testing have a window period?,WINDOW_PERIOD
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+What medication treats bacterial STIs?,MEDICATION
+How should I respond to a possible STI exposure?,EXPOSURE_RISK
+Where should I go for severe high fever and pelvic pain?,URGENT_HEALTH_CONCERN
+When should someone seek an STI test?,TESTING
+Explain how trichomoniasis passes between people.,TRANSMISSION

@@ -1,0 +1,125 @@
+text,labels
+Please help me understand gonorrhea,topics:gonorrhoea
+Is gonorrhea a concern?,topics:gonorrhoea
+Please help me understand gonorrhoea,topics:gonorrhoea
+Is gonorrhoea a concern?,topics:gonorrhoea
+Please help me understand kisonono,topics:gonorrhoea
+Is kisonono a concern?,topics:gonorrhoea
+Please help me understand chlamydia,topics:chlamydia
+Is chlamydia a concern?,topics:chlamydia
+Please help me understand infection with chlamydia,topics:chlamydia
+Is infection with chlamydia a concern?,topics:chlamydia
+Please help me understand syphilis,topics:syphilis
+Is syphilis a concern?,topics:syphilis
+Please help me understand kaswende,topics:syphilis
+Is kaswende a concern?,topics:syphilis
+Please help me understand HIV,topics:hiv
+Is HIV a concern?,topics:hiv
+Please help me understand ukimwi,topics:hiv
+Is ukimwi a concern?,topics:hiv
+Please help me understand genital herpes,topics:herpes
+Is genital herpes a concern?,topics:herpes
+Please help me understand herpes,topics:herpes
+Is herpes a concern?,topics:herpes
+Please help me understand HPV,topics:hpv
+Is HPV a concern?,topics:hpv
+Please help me understand human papillomavirus,topics:hpv
+Is human papillomavirus a concern?,topics:hpv
+Please help me understand trichomoniasis,topics:trichomoniasis
+Is trichomoniasis a concern?,topics:trichomoniasis
+Please help me understand trich,topics:trichomoniasis
+Is trich a concern?,topics:trichomoniasis
+Please help me understand itchy private parts,symptoms:genital_itching
+Is itchy private parts a concern?,symptoms:genital_itching
+Please help me understand itching around my genitals,symptoms:genital_itching
+Is itching around my genitals a concern?,symptoms:genital_itching
+Please help me understand vagina is itching,symptoms:genital_itching
+Is vagina is itching a concern?,symptoms:genital_itching
+Please help me understand kuwashwa sehemu za siri,symptoms:genital_itching
+Is kuwashwa sehemu za siri a concern?,symptoms:genital_itching
+Please help me understand my penis itches,symptoms:genital_itching
+Is my penis itches a concern?,symptoms:genital_itching
+Please help me understand pain while urinating,symptoms:dysuria
+Is pain while urinating a concern?,symptoms:dysuria
+Please help me understand burns when I pee,symptoms:dysuria
+Is burns when I pee a concern?,symptoms:dysuria
+Please help me understand pain when passing urine,symptoms:dysuria
+Is pain when passing urine a concern?,symptoms:dysuria
+Please help me understand maumivu nikikojoa,symptoms:dysuria
+Is maumivu nikikojoa a concern?,symptoms:dysuria
+Please help me understand stinging while peeing,symptoms:dysuria
+Is stinging while peeing a concern?,symptoms:dysuria
+Please help me understand yellow vaginal discharge,symptoms:genital_discharge
+Is yellow vaginal discharge a concern?,symptoms:genital_discharge
+Please help me understand discharge from my penis,symptoms:genital_discharge
+Is discharge from my penis a concern?,symptoms:genital_discharge
+Please help me understand unusual genital discharge,symptoms:genital_discharge
+Is unusual genital discharge a concern?,symptoms:genital_discharge
+Please help me understand uchafu sehemu za siri,symptoms:genital_discharge
+Is uchafu sehemu za siri a concern?,symptoms:genital_discharge
+Please help me understand pain in my pelvis,symptoms:pelvic_pain
+Is pain in my pelvis a concern?,symptoms:pelvic_pain
+Please help me understand lower abdominal pain,symptoms:pelvic_pain
+Is lower abdominal pain a concern?,symptoms:pelvic_pain
+Please help me understand maumivu ya nyonga,symptoms:pelvic_pain
+Is maumivu ya nyonga a concern?,symptoms:pelvic_pain
+Please help me understand my testicles hurt,symptoms:testicular_pain
+Is my testicles hurt a concern?,symptoms:testicular_pain
+Please help me understand painful testicle,symptoms:testicular_pain
+Is painful testicle a concern?,symptoms:testicular_pain
+Please help me understand maumivu ya korodani,symptoms:testicular_pain
+Is maumivu ya korodani a concern?,symptoms:testicular_pain
+Please help me understand sores on my genitals,symptoms:genital_sores
+Is sores on my genitals a concern?,symptoms:genital_sores
+Please help me understand ulcers on my penis,symptoms:genital_sores
+Is ulcers on my penis a concern?,symptoms:genital_sores
+Please help me understand vidonda sehemu za siri,symptoms:genital_sores
+Is vidonda sehemu za siri a concern?,symptoms:genital_sores
+Please help me understand rash on skin,symptoms:rash
+Is rash on skin a concern?,symptoms:rash
+Please help me understand upele,symptoms:rash
+Is upele a concern?,symptoms:rash
+Please help me understand high fever,symptoms:fever
+Is high fever a concern?,symptoms:fever
+Please help me understand homa,symptoms:fever
+Is homa a concern?,symptoms:fever
+Please help me understand yellow urine,symptoms:yellow_urine
+Is yellow urine a concern?,symptoms:yellow_urine
+Please help me understand urine looks yellow,symptoms:yellow_urine
+Is urine looks yellow a concern?,symptoms:yellow_urine
+Please help me understand mkojo wa njano,symptoms:yellow_urine
+Is mkojo wa njano a concern?,symptoms:yellow_urine
+Please help me understand unprotected sex,exposures:unprotected_sex
+Is unprotected sex a concern?,exposures:unprotected_sex
+Please help me understand sex without a condom,exposures:unprotected_sex
+Is sex without a condom a concern?,exposures:unprotected_sex
+Please help me understand ngono bila kondomu,exposures:unprotected_sex
+Is ngono bila kondomu a concern?,exposures:unprotected_sex
+Please help me understand oral sex,exposures:oral_sex
+Is oral sex a concern?,exposures:oral_sex
+Please help me understand ngono ya mdomo,exposures:oral_sex
+Is ngono ya mdomo a concern?,exposures:oral_sex
+Please help me understand a new sexual partner,exposures:new_partner
+Is a new sexual partner a concern?,exposures:new_partner
+Please help me understand mwenza mpya,exposures:new_partner
+Is mwenza mpya a concern?,exposures:new_partner
+Please help me understand new partner,exposures:new_partner
+Is new partner a concern?,exposures:new_partner
+Thank you,
+What is an STI?,
+Where can I get a test?,
+What are prevention methods?,
+How long is the window period?,
+I need treatment advice,
+Yellow shirt,
+I have a headache,
+My urine is clear,
+Could gonorrhea be related to chlamydia?,topics:gonorrhoea;topics:chlamydia
+Could syphilis be related to HIV?,topics:syphilis;topics:hiv
+Could genital herpes be related to HPV?,topics:herpes;topics:hpv
+Could trichomoniasis be related to itchy private parts?,topics:trichomoniasis;symptoms:genital_itching
+Could pain while urinating be related to yellow vaginal discharge?,symptoms:dysuria;symptoms:genital_discharge
+Could pain in my pelvis be related to my testicles hurt?,symptoms:pelvic_pain;symptoms:testicular_pain
+Could sores on my genitals be related to rash on skin?,symptoms:genital_sores;symptoms:rash
+Could high fever be related to yellow urine?,symptoms:fever;symptoms:yellow_urine
+Could unprotected sex be related to oral sex?,exposures:unprotected_sex;exposures:oral_sex

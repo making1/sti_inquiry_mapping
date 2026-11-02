@@ -1,0 +1,1297 @@
+text,intent
+Which STIs are common?,GENERAL_INFORMATION
+How does herpes usually present?,SYMPTOMS
+Are antibiotics used for gonorrhoea?,MEDICATION
+How is chlamydia treated?,TREATMENT
+Can a test be too early after exposure?,WINDOW_PERIOD
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+Does a condom breaking transmit STIs?,TRANSMISSION
+When is testing reliable after exposure?,WINDOW_PERIOD
+Does anal sex transmit STIs?,TRANSMISSION
+Why is partner notification important?,PARTNER_NOTIFICATION
+Why is partner notification important?,PARTNER_NOTIFICATION
+Why is partner notification important?,PARTNER_NOTIFICATION
+What is the window period for an STI test?,WINDOW_PERIOD
+I want basic information about STIs.,GENERAL_INFORMATION
+I had sex last month; is it too soon to test?,WINDOW_PERIOD
+Which signs are common with syphilis?,SYMPTOMS
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+Can you explain STI basics?,GENERAL_INFORMATION
+How long should I wait before testing?,WINDOW_PERIOD
+Can I be tested after risky sex?,TESTING
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+Can I buy medicine for an STI myself?,MEDICATION
+My symptoms include severe pelvic pain; what should I do now?,URGENT_HEALTH_CONCERN
+How can I prevent gonorrhoea?,PREVENTION
+Can I be tested after risky sex?,TESTING
+How is syphilis treated?,TREATMENT
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+I had unprotected vaginal sex; what is my STI risk?,EXPOSURE_RISK
+How can someone catch herpes?,TRANSMISSION
+Are antibiotics used for HPV?,MEDICATION
+I had sex three weeks ago; is it too soon to test?,WINDOW_PERIOD
+What protects people from STIs?,PREVENTION
+What STI prevention methods work?,PREVENTION
+How soon after anal sex can I test?,WINDOW_PERIOD
+Do I need testing if I have no symptoms?,TESTING
+What symptoms can herpes cause?,SYMPTOMS
+How can I prevent chlamydia?,PREVENTION
+I have severe testicular pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+What is the window period for an STI test?,WINDOW_PERIOD
+Which signs are common with chlamydia?,SYMPTOMS
+How do I reduce my STI risk?,PREVENTION
+Should I take leftover antibiotics for an STI?,MEDICATION
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+I heard washing after sex prevents infection; is that correct?,MISCONCEPTION
+What symptoms can HPV cause?,SYMPTOMS
+Are antibiotics used for chlamydia?,MEDICATION
+I had oral sex; what is my STI risk?,EXPOSURE_RISK
+Should I take leftover antibiotics for an STI?,MEDICATION
+What protects people from STIs?,PREVENTION
+What test detects HPV?,TESTING
+Can you get an STI from a toilet seat?,MISCONCEPTION
+What is the window period for an STI test?,WINDOW_PERIOD
+Do I need a prescription for STI treatment?,MEDICATION
+How does gonorrhoea usually present?,SYMPTOMS
+Which signs are common with HIV?,SYMPTOMS
+Can you get an STI from a toilet seat?,MISCONCEPTION
+What symptoms can trichomoniasis cause?,SYMPTOMS
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+I have pelvic pain; could this be an STI?,SYMPTOMS
+Can I get an STI from unprotected vaginal sex?,TRANSMISSION
+Do only promiscuous people get STIs?,MISCONCEPTION
+I have fainting with severe pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+Which STIs are common?,GENERAL_INFORMATION
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+When is testing reliable after exposure?,WINDOW_PERIOD
+What symptoms can HIV cause?,SYMPTOMS
+Can you get an STI from a toilet seat?,MISCONCEPTION
+Where can I get tested for HPV?,TESTING
+Tell me about HPV.,GENERAL_INFORMATION
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+Do condoms help prevent trichomoniasis?,PREVENTION
+What STI prevention methods work?,PREVENTION
+Is itching an STI symptom?,SYMPTOMS
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+Can I get an STI from anal sex?,TRANSMISSION
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+Should I take leftover antibiotics for an STI?,MEDICATION
+How do doctors test for gonorrhoea?,TESTING
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+Does washing after sex prevents infection mean someone has an STI?,MISCONCEPTION
+How do doctors test for herpes?,TESTING
+Which STIs are common?,GENERAL_INFORMATION
+What is gonorrhoea?,GENERAL_INFORMATION
+Tell me about HPV.,GENERAL_INFORMATION
+Can I get an STI from sex with a new partner?,TRANSMISSION
+Can I buy medicine for an STI myself?,MEDICATION
+What test detects chlamydia?,TESTING
+I have unusual genital discharge; could this be an STI?,SYMPTOMS
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+How soon after sex with a new partner can I test?,WINDOW_PERIOD
+How long should I wait before testing?,WINDOW_PERIOD
+Can I use someone else's STI medicine?,MEDICATION
+Does anal sex transmit STIs?,TRANSMISSION
+Can a test be too early after exposure?,WINDOW_PERIOD
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+Can I be tested after risky sex?,TESTING
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+What test detects trichomoniasis?,TESTING
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+I want basic information about STIs.,GENERAL_INFORMATION
+What protects people from STIs?,PREVENTION
+Do I need a prescription for STI treatment?,MEDICATION
+Do only promiscuous people get STIs?,MISCONCEPTION
+Does a condom breaking transmit STIs?,TRANSMISSION
+Can a test be too early after exposure?,WINDOW_PERIOD
+How is trichomoniasis transmitted?,TRANSMISSION
+How do I reduce my STI risk?,PREVENTION
+I have itching; could this be an STI?,SYMPTOMS
+What is the STI risk from unprotected vaginal sex?,TRANSMISSION
+Should I tell my partner if I have HPV?,PARTNER_NOTIFICATION
+Do I need a prescription for STI treatment?,MEDICATION
+Can you explain STI basics?,GENERAL_INFORMATION
+How can I prevent herpes?,PREVENTION
+What test detects trichomoniasis?,TESTING
+My symptoms include severe pelvic pain; what should I do now?,URGENT_HEALTH_CONCERN
+What protects people from STIs?,PREVENTION
+Which STIs are common?,GENERAL_INFORMATION
+What is trichomoniasis?,GENERAL_INFORMATION
+Tell me about chlamydia.,GENERAL_INFORMATION
+Where can I get tested for trichomoniasis?,TESTING
+Are antibiotics used for syphilis?,MEDICATION
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+Can I use someone else's STI medicine?,MEDICATION
+How are bacterial STIs managed?,TREATMENT
+Do I need a clinician for STI treatment?,TREATMENT
+Does washing after sex prevents infection mean someone has an STI?,MISCONCEPTION
+How is gonorrhoea treated?,TREATMENT
+What treatment is used for HIV?,TREATMENT
+Do I need testing if I have no symptoms?,TESTING
+How can I prevent gonorrhoea?,PREVENTION
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+Do condoms help prevent gonorrhoea?,PREVENTION
+Do I need testing if I have no symptoms?,TESTING
+Is you cannot have an STI without symptoms true about STIs?,MISCONCEPTION
+Should I test after unprotected vaginal sex?,TESTING
+Should I take leftover antibiotics for an STI?,MEDICATION
+Does STIs only affect older people mean someone has an STI?,MISCONCEPTION
+Can I use someone else's STI medicine?,MEDICATION
+What should young adults know about STIs?,GENERAL_INFORMATION
+What medicine is used for gonorrhoea?,MEDICATION
+How does herpes usually present?,SYMPTOMS
+I had a new partner last month; should I be concerned?,EXPOSURE_RISK
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+What medicine is used for trichomoniasis?,MEDICATION
+How are bacterial STIs managed?,TREATMENT
+I have burning when urinating; could this be an STI?,SYMPTOMS
+Should I take leftover antibiotics for an STI?,MEDICATION
+I heard you cannot have an STI without symptoms; is that correct?,MISCONCEPTION
+My symptoms include severe pelvic pain; what should I do now?,URGENT_HEALTH_CONCERN
+I have severe testicular pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+What STI may cause a genital rash?,SYMPTOMS
+What should I do if my STI test is positive?,TREATMENT
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+I have severe testicular pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+How is HIV transmitted?,TRANSMISSION
+Which STIs are common?,GENERAL_INFORMATION
+Can a test be too early after exposure?,WINDOW_PERIOD
+Should I take leftover antibiotics for an STI?,MEDICATION
+Why is partner notification important?,PARTNER_NOTIFICATION
+Could I have been exposed through anal sex?,EXPOSURE_RISK
+Does anal sex transmit STIs?,TRANSMISSION
+I have itching; could this be an STI?,SYMPTOMS
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+What STI prevention methods work?,PREVENTION
+Can I use someone else's STI medicine?,MEDICATION
+I have pelvic pain; could this be an STI?,SYMPTOMS
+How risky is a condom breaking for an STI?,EXPOSURE_RISK
+What is the window period for an STI test?,WINDOW_PERIOD
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+Should I tell my partner if I have herpes?,PARTNER_NOTIFICATION
+Which signs are common with HPV?,SYMPTOMS
+My symptoms include severe pelvic pain; what should I do now?,URGENT_HEALTH_CONCERN
+When is testing reliable after exposure?,WINDOW_PERIOD
+How do I reduce my STI risk?,PREVENTION
+How can someone catch gonorrhoea?,TRANSMISSION
+Do only promiscuous people get STIs?,MISCONCEPTION
+Do I need a prescription for STI treatment?,MEDICATION
+I had oral sex; what is my STI risk?,EXPOSURE_RISK
+Can you get an STI from a toilet seat?,MISCONCEPTION
+Could I have been exposed through anal sex?,EXPOSURE_RISK
+Do I need a clinician for STI treatment?,TREATMENT
+What test detects trichomoniasis?,TESTING
+How soon after anal sex can I test?,WINDOW_PERIOD
+What protects people from STIs?,PREVENTION
+Do only promiscuous people get STIs?,MISCONCEPTION
+Could I have been exposed through a condom breaking?,EXPOSURE_RISK
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+How can someone catch syphilis?,TRANSMISSION
+Should I tell my partner if I have HPV?,PARTNER_NOTIFICATION
+How soon after a condom breaking can I test?,WINDOW_PERIOD
+What should young adults know about STIs?,GENERAL_INFORMATION
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+How soon after unprotected vaginal sex can I test?,WINDOW_PERIOD
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+Can you get an STI from a toilet seat?,MISCONCEPTION
+I want basic information about STIs.,GENERAL_INFORMATION
+Does two condoms are always safer than one mean someone has an STI?,MISCONCEPTION
+Can I be tested after risky sex?,TESTING
+Can my partner be treated too?,PARTNER_NOTIFICATION
+What is trichomoniasis?,GENERAL_INFORMATION
+Can syphilis be cured?,TREATMENT
+When is testing reliable after exposure?,WINDOW_PERIOD
+Can you explain STI basics?,GENERAL_INFORMATION
+Is two condoms are always safer than one true about STIs?,MISCONCEPTION
+Do condoms help prevent HPV?,PREVENTION
+I had a new partner one week ago; should I be concerned?,EXPOSURE_RISK
+Do I need testing if I have no symptoms?,TESTING
+Do I need a prescription for STI treatment?,MEDICATION
+Do I need a clinician for STI treatment?,TREATMENT
+What medicine is used for HPV?,MEDICATION
+What protects people from STIs?,PREVENTION
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+Do I need a prescription for STI treatment?,MEDICATION
+When is testing reliable after exposure?,WINDOW_PERIOD
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+Do I need a clinician for STI treatment?,TREATMENT
+What should young adults know about STIs?,GENERAL_INFORMATION
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+What is the STI risk from a condom breaking?,TRANSMISSION
+Can gonorrhoea be cured?,TREATMENT
+Which signs are common with gonorrhoea?,SYMPTOMS
+How is trichomoniasis treated?,TREATMENT
+What treatment is used for HIV?,TREATMENT
+Does two condoms are always safer than one mean someone has an STI?,MISCONCEPTION
+How risky is unprotected vaginal sex for an STI?,EXPOSURE_RISK
+Should I tell my partner if I have gonorrhoea?,PARTNER_NOTIFICATION
+Why is partner notification important?,PARTNER_NOTIFICATION
+Which signs are common with trichomoniasis?,SYMPTOMS
+Do I need a prescription for STI treatment?,MEDICATION
+When is testing reliable after exposure?,WINDOW_PERIOD
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+I have burning when urinating; could this be an STI?,SYMPTOMS
+What is syphilis?,GENERAL_INFORMATION
+How do doctors test for gonorrhoea?,TESTING
+Do I need a prescription for STI treatment?,MEDICATION
+Which signs are common with herpes?,SYMPTOMS
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+What is HIV?,GENERAL_INFORMATION
+What STI prevention methods work?,PREVENTION
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+How do doctors test for HIV?,TESTING
+Where can I get tested for syphilis?,TESTING
+Do condoms help prevent syphilis?,PREVENTION
+Can I get an STI from anal sex?,TRANSMISSION
+Can you get an STI from a toilet seat?,MISCONCEPTION
+Why is partner notification important?,PARTNER_NOTIFICATION
+Could I have been exposed through sex with a new partner?,EXPOSURE_RISK
+What test detects HPV?,TESTING
+Can you get an STI from a toilet seat?,MISCONCEPTION
+How long should I wait before testing?,WINDOW_PERIOD
+Do I need testing if I have no symptoms?,TESTING
+Is STIs only affect older people true about STIs?,MISCONCEPTION
+How are bacterial STIs managed?,TREATMENT
+How risky is a condom breaking for an STI?,EXPOSURE_RISK
+Can I use someone else's STI medicine?,MEDICATION
+What STI prevention methods work?,PREVENTION
+Do only promiscuous people get STIs?,MISCONCEPTION
+How is HIV transmitted?,TRANSMISSION
+What medicine is used for herpes?,MEDICATION
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+What STI prevention methods work?,PREVENTION
+What is the window period for an STI test?,WINDOW_PERIOD
+What STI prevention methods work?,PREVENTION
+I had unprotected vaginal sex; what is my STI risk?,EXPOSURE_RISK
+What symptoms can chlamydia cause?,SYMPTOMS
+I had a new partner three weeks ago; should I be concerned?,EXPOSURE_RISK
+How do I reduce my STI risk?,PREVENTION
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+Why is partner notification important?,PARTNER_NOTIFICATION
+Can gonorrhoea be cured?,TREATMENT
+What STI prevention methods work?,PREVENTION
+Which STIs are common?,GENERAL_INFORMATION
+How do I reduce my STI risk?,PREVENTION
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+How can someone catch trichomoniasis?,TRANSMISSION
+Do only promiscuous people get STIs?,MISCONCEPTION
+I have itching; could this be an STI?,SYMPTOMS
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+What is gonorrhoea?,GENERAL_INFORMATION
+Is washing after sex prevents infection true about STIs?,MISCONCEPTION
+How is trichomoniasis transmitted?,TRANSMISSION
+Can HIV be cured?,TREATMENT
+Is testicular pain an STI symptom?,SYMPTOMS
+My symptoms include high fever and pelvic pain; what should I do now?,URGENT_HEALTH_CONCERN
+I want basic information about STIs.,GENERAL_INFORMATION
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+Is pelvic pain an STI symptom?,SYMPTOMS
+How do I reduce my STI risk?,PREVENTION
+I have unusual genital discharge; could this be an STI?,SYMPTOMS
+What should I do if my STI test is positive?,TREATMENT
+How are bacterial STIs managed?,TREATMENT
+Can a test be too early after exposure?,WINDOW_PERIOD
+What is the STI risk from anal sex?,TRANSMISSION
+What STI may cause genital sores?,SYMPTOMS
+What is the STI risk from a condom breaking?,TRANSMISSION
+Should I test after oral sex?,TESTING
+I heard washing after sex prevents infection; is that correct?,MISCONCEPTION
+Do I need a prescription for STI treatment?,MEDICATION
+What STI prevention methods work?,PREVENTION
+Can you get an STI from a toilet seat?,MISCONCEPTION
+What should I do if my STI test is positive?,TREATMENT
+How can I prevent syphilis?,PREVENTION
+Can I buy medicine for an STI myself?,MEDICATION
+How do doctors test for herpes?,TESTING
+What is chlamydia?,GENERAL_INFORMATION
+What is the window period for an STI test?,WINDOW_PERIOD
+I have fainting with severe pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+How are bacterial STIs managed?,TREATMENT
+What treatment is used for herpes?,TREATMENT
+What treatment is used for herpes?,TREATMENT
+Is STIs only affect older people true about STIs?,MISCONCEPTION
+How is HIV transmitted?,TRANSMISSION
+What is the STI risk from oral sex?,TRANSMISSION
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+How can someone catch gonorrhoea?,TRANSMISSION
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+How do doctors test for gonorrhoea?,TESTING
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+My symptoms include fainting with severe pain; what should I do now?,URGENT_HEALTH_CONCERN
+What symptoms can HPV cause?,SYMPTOMS
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+Is severe pelvic pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+Can I get an STI from sex with a new partner?,TRANSMISSION
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+I had sex three weeks ago; is it too soon to test?,WINDOW_PERIOD
+What STI may cause pelvic pain?,SYMPTOMS
+Can my partner be treated too?,PARTNER_NOTIFICATION
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+Should I test after unprotected vaginal sex?,TESTING
+I want basic information about STIs.,GENERAL_INFORMATION
+How is HIV transmitted?,TRANSMISSION
+I heard two condoms are always safer than one; is that correct?,MISCONCEPTION
+Do I need a clinician for STI treatment?,TREATMENT
+Do only promiscuous people get STIs?,MISCONCEPTION
+How soon after sex with a new partner can I test?,WINDOW_PERIOD
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+What is the window period for an STI test?,WINDOW_PERIOD
+How are bacterial STIs managed?,TREATMENT
+Where can I get tested for syphilis?,TESTING
+Should I tell my partner if I have HIV?,PARTNER_NOTIFICATION
+How does gonorrhoea usually present?,SYMPTOMS
+Why is partner notification important?,PARTNER_NOTIFICATION
+Can I be tested after risky sex?,TESTING
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+Is STIs only affect older people true about STIs?,MISCONCEPTION
+How can partners have safer sex?,PREVENTION
+Can I buy medicine for an STI myself?,MEDICATION
+Tell me about syphilis.,GENERAL_INFORMATION
+When is testing reliable after exposure?,WINDOW_PERIOD
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+How does syphilis usually present?,SYMPTOMS
+Which STIs are common?,GENERAL_INFORMATION
+How does chlamydia usually present?,SYMPTOMS
+Can I be tested after risky sex?,TESTING
+What treatment is used for HPV?,TREATMENT
+How do I reduce my STI risk?,PREVENTION
+Do I need a clinician for STI treatment?,TREATMENT
+Can I buy medicine for an STI myself?,MEDICATION
+What treatment is used for herpes?,TREATMENT
+I have fainting with severe pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+How is HPV treated?,TREATMENT
+What should young adults know about STIs?,GENERAL_INFORMATION
+Does anal sex transmit STIs?,TRANSMISSION
+Could I have been exposed through anal sex?,EXPOSURE_RISK
+Why is partner notification important?,PARTNER_NOTIFICATION
+I had a condom breaking; what is my STI risk?,EXPOSURE_RISK
+I had a new partner three weeks ago; should I be concerned?,EXPOSURE_RISK
+Should I test after oral sex?,TESTING
+Should I tell my partner if I have chlamydia?,PARTNER_NOTIFICATION
+I heard washing after sex prevents infection; is that correct?,MISCONCEPTION
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+How can I prevent HPV?,PREVENTION
+How can partners have safer sex?,PREVENTION
+I want basic information about STIs.,GENERAL_INFORMATION
+Can I get an STI from anal sex?,TRANSMISSION
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+I had unprotected vaginal sex; what is my STI risk?,EXPOSURE_RISK
+I want basic information about STIs.,GENERAL_INFORMATION
+What should I do if my STI test is positive?,TREATMENT
+Does sex with a new partner transmit STIs?,TRANSMISSION
+What is the STI risk from a condom breaking?,TRANSMISSION
+I had a new partner two days ago; should I be concerned?,EXPOSURE_RISK
+Where can I get tested for herpes?,TESTING
+How is HIV treated?,TREATMENT
+What is HPV?,GENERAL_INFORMATION
+What treatment is used for herpes?,TREATMENT
+How can partners have safer sex?,PREVENTION
+How do doctors test for HPV?,TESTING
+Can HPV spread during sex?,TRANSMISSION
+Can you explain STI basics?,GENERAL_INFORMATION
+Are antibiotics used for herpes?,MEDICATION
+How soon after a condom breaking can I test?,WINDOW_PERIOD
+Does oral sex transmit STIs?,TRANSMISSION
+My symptoms include fainting with severe pain; what should I do now?,URGENT_HEALTH_CONCERN
+Do I need testing if I have no symptoms?,TESTING
+Can I use someone else's STI medicine?,MEDICATION
+How risky is anal sex for an STI?,EXPOSURE_RISK
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+What protects people from STIs?,PREVENTION
+Which STIs are common?,GENERAL_INFORMATION
+Does oral sex transmit STIs?,TRANSMISSION
+Can I be tested after risky sex?,TESTING
+Is high fever and pelvic pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+Can my partner be treated too?,PARTNER_NOTIFICATION
+Should I test after anal sex?,TESTING
+What protects people from STIs?,PREVENTION
+Can a test be too early after exposure?,WINDOW_PERIOD
+Should I take leftover antibiotics for an STI?,MEDICATION
+What should I do if my STI test is positive?,TREATMENT
+When is testing reliable after exposure?,WINDOW_PERIOD
+My symptoms include fainting with severe pain; what should I do now?,URGENT_HEALTH_CONCERN
+How long should I wait before testing?,WINDOW_PERIOD
+How do I reduce my STI risk?,PREVENTION
+I had unprotected vaginal sex; what is my STI risk?,EXPOSURE_RISK
+Do I need a clinician for STI treatment?,TREATMENT
+What STI prevention methods work?,PREVENTION
+I have genital sores; could this be an STI?,SYMPTOMS
+How soon after anal sex can I test?,WINDOW_PERIOD
+Where can I get tested for gonorrhoea?,TESTING
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+Is severe testicular pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+Can I use someone else's STI medicine?,MEDICATION
+I had sex last month; is it too soon to test?,WINDOW_PERIOD
+How soon after sex with a new partner can I test?,WINDOW_PERIOD
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+How can I prevent gonorrhoea?,PREVENTION
+How do doctors test for HPV?,TESTING
+What is herpes?,GENERAL_INFORMATION
+What test detects trichomoniasis?,TESTING
+Is itching an STI symptom?,SYMPTOMS
+Is severe pelvic pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+Are antibiotics used for HIV?,MEDICATION
+Do condoms help prevent chlamydia?,PREVENTION
+I want basic information about STIs.,GENERAL_INFORMATION
+Does washing after sex prevents infection mean someone has an STI?,MISCONCEPTION
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+I had a new partner two days ago; should I be concerned?,EXPOSURE_RISK
+How do I reduce my STI risk?,PREVENTION
+How is trichomoniasis treated?,TREATMENT
+Do I need a prescription for STI treatment?,MEDICATION
+Can you get an STI from a toilet seat?,MISCONCEPTION
+Can I be tested after risky sex?,TESTING
+Do I need testing if I have no symptoms?,TESTING
+What should young adults know about STIs?,GENERAL_INFORMATION
+How can partners have safer sex?,PREVENTION
+Is STIs only affect older people true about STIs?,MISCONCEPTION
+How long should I wait before testing?,WINDOW_PERIOD
+Do I need testing if I have no symptoms?,TESTING
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+Can my partner be treated too?,PARTNER_NOTIFICATION
+Should I test after a condom breaking?,TESTING
+What symptoms can syphilis cause?,SYMPTOMS
+How soon after anal sex can I test?,WINDOW_PERIOD
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+Do I need testing if I have no symptoms?,TESTING
+What treatment is used for herpes?,TREATMENT
+How do I reduce my STI risk?,PREVENTION
+Does sex with a new partner transmit STIs?,TRANSMISSION
+Where can I get tested for trichomoniasis?,TESTING
+What should young adults know about STIs?,GENERAL_INFORMATION
+Is testicular pain an STI symptom?,SYMPTOMS
+How long should I wait before testing?,WINDOW_PERIOD
+What treatment is used for HIV?,TREATMENT
+Is high fever and pelvic pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+My symptoms include fainting with severe pain; what should I do now?,URGENT_HEALTH_CONCERN
+I want basic information about STIs.,GENERAL_INFORMATION
+Do condoms help prevent HIV?,PREVENTION
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+What STI may cause unusual genital discharge?,SYMPTOMS
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+Do condoms help prevent syphilis?,PREVENTION
+What should I do if my STI test is positive?,TREATMENT
+Can I get an STI from anal sex?,TRANSMISSION
+Where can I get tested for HPV?,TESTING
+How do I reduce my STI risk?,PREVENTION
+Can I use someone else's STI medicine?,MEDICATION
+How does HPV usually present?,SYMPTOMS
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+What should young adults know about STIs?,GENERAL_INFORMATION
+Tell me about trichomoniasis.,GENERAL_INFORMATION
+Tell me about chlamydia.,GENERAL_INFORMATION
+Tell me about herpes.,GENERAL_INFORMATION
+Which STIs are common?,GENERAL_INFORMATION
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+How do doctors test for gonorrhoea?,TESTING
+What is the STI risk from oral sex?,TRANSMISSION
+Is fainting with severe pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+Can you explain STI basics?,GENERAL_INFORMATION
+Should I tell my partner if I have herpes?,PARTNER_NOTIFICATION
+How can I prevent herpes?,PREVENTION
+Tell me about HPV.,GENERAL_INFORMATION
+How does chlamydia usually present?,SYMPTOMS
+Do only promiscuous people get STIs?,MISCONCEPTION
+How can someone catch chlamydia?,TRANSMISSION
+Which signs are common with trichomoniasis?,SYMPTOMS
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+What STI may cause unusual genital discharge?,SYMPTOMS
+How is gonorrhoea treated?,TREATMENT
+How can someone catch trichomoniasis?,TRANSMISSION
+Can you explain STI basics?,GENERAL_INFORMATION
+Why is partner notification important?,PARTNER_NOTIFICATION
+Which signs are common with herpes?,SYMPTOMS
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+Can my partner be treated too?,PARTNER_NOTIFICATION
+How risky is anal sex for an STI?,EXPOSURE_RISK
+Can I buy medicine for an STI myself?,MEDICATION
+How can I prevent trichomoniasis?,PREVENTION
+I had sex two days ago; is it too soon to test?,WINDOW_PERIOD
+I have unusual genital discharge; could this be an STI?,SYMPTOMS
+Can my partner be treated too?,PARTNER_NOTIFICATION
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+I heard you cannot have an STI without symptoms; is that correct?,MISCONCEPTION
+Where can I get tested for syphilis?,TESTING
+Can HPV spread during sex?,TRANSMISSION
+How soon after oral sex can I test?,WINDOW_PERIOD
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+How does syphilis usually present?,SYMPTOMS
+Should I take leftover antibiotics for an STI?,MEDICATION
+How risky is oral sex for an STI?,EXPOSURE_RISK
+Does two condoms are always safer than one mean someone has an STI?,MISCONCEPTION
+My symptoms include severe testicular pain; what should I do now?,URGENT_HEALTH_CONCERN
+Does two condoms are always safer than one mean someone has an STI?,MISCONCEPTION
+Do condoms help prevent HPV?,PREVENTION
+My symptoms include fainting with severe pain; what should I do now?,URGENT_HEALTH_CONCERN
+How is herpes treated?,TREATMENT
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+How is HPV treated?,TREATMENT
+How are bacterial STIs managed?,TREATMENT
+I had a new partner last month; should I be concerned?,EXPOSURE_RISK
+How can I prevent gonorrhoea?,PREVENTION
+I had a new partner two days ago; should I be concerned?,EXPOSURE_RISK
+How is trichomoniasis transmitted?,TRANSMISSION
+Does oral sex transmit STIs?,TRANSMISSION
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+What protects people from STIs?,PREVENTION
+What medicine is used for syphilis?,MEDICATION
+Can my partner be treated too?,PARTNER_NOTIFICATION
+What protects people from STIs?,PREVENTION
+Tell me about syphilis.,GENERAL_INFORMATION
+Do I need a prescription for STI treatment?,MEDICATION
+Could I have been exposed through a condom breaking?,EXPOSURE_RISK
+How are bacterial STIs managed?,TREATMENT
+I had anal sex; what is my STI risk?,EXPOSURE_RISK
+Is pelvic pain an STI symptom?,SYMPTOMS
+Could I have been exposed through unprotected vaginal sex?,EXPOSURE_RISK
+Can I get an STI from anal sex?,TRANSMISSION
+Is washing after sex prevents infection true about STIs?,MISCONCEPTION
+Can I use someone else's STI medicine?,MEDICATION
+What STI may cause burning when urinating?,SYMPTOMS
+Can you get an STI from a toilet seat?,MISCONCEPTION
+Does STIs only affect older people mean someone has an STI?,MISCONCEPTION
+What is the window period for an STI test?,WINDOW_PERIOD
+I have genital sores; could this be an STI?,SYMPTOMS
+How risky is unprotected vaginal sex for an STI?,EXPOSURE_RISK
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+How do I reduce my STI risk?,PREVENTION
+How can partners have safer sex?,PREVENTION
+When is testing reliable after exposure?,WINDOW_PERIOD
+How long should I wait before testing?,WINDOW_PERIOD
+I had a new partner three weeks ago; should I be concerned?,EXPOSURE_RISK
+I have fainting with severe pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+Does washing after sex prevents infection mean someone has an STI?,MISCONCEPTION
+Can chlamydia be cured?,TREATMENT
+Does STIs only affect older people mean someone has an STI?,MISCONCEPTION
+How risky is anal sex for an STI?,EXPOSURE_RISK
+Do I need a clinician for STI treatment?,TREATMENT
+Why is partner notification important?,PARTNER_NOTIFICATION
+I heard you cannot have an STI without symptoms; is that correct?,MISCONCEPTION
+Should I take leftover antibiotics for an STI?,MEDICATION
+Can I use someone else's STI medicine?,MEDICATION
+Do condoms help prevent HIV?,PREVENTION
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+Can you get an STI from a toilet seat?,MISCONCEPTION
+How soon after sex with a new partner can I test?,WINDOW_PERIOD
+How do I reduce my STI risk?,PREVENTION
+How do doctors test for HIV?,TESTING
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+Why is partner notification important?,PARTNER_NOTIFICATION
+Do only promiscuous people get STIs?,MISCONCEPTION
+Does a condom breaking transmit STIs?,TRANSMISSION
+Is genital sores an STI symptom?,SYMPTOMS
+What STI may cause itching?,SYMPTOMS
+What is chlamydia?,GENERAL_INFORMATION
+I had a condom breaking; what is my STI risk?,EXPOSURE_RISK
+Can I buy medicine for an STI myself?,MEDICATION
+Should I test after anal sex?,TESTING
+I have a genital rash; could this be an STI?,SYMPTOMS
+Do I need a prescription for STI treatment?,MEDICATION
+Do I need testing if I have no symptoms?,TESTING
+Can you explain STI basics?,GENERAL_INFORMATION
+Can I be tested after risky sex?,TESTING
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+What STI may cause itching?,SYMPTOMS
+I had a new partner one week ago; should I be concerned?,EXPOSURE_RISK
+I had sex three weeks ago; is it too soon to test?,WINDOW_PERIOD
+Could I have been exposed through unprotected vaginal sex?,EXPOSURE_RISK
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+I had sex two days ago; is it too soon to test?,WINDOW_PERIOD
+What symptoms can gonorrhoea cause?,SYMPTOMS
+Should I tell my partner if I have gonorrhoea?,PARTNER_NOTIFICATION
+When is testing reliable after exposure?,WINDOW_PERIOD
+Can I buy medicine for an STI myself?,MEDICATION
+Can syphilis spread during sex?,TRANSMISSION
+Is burning when urinating an STI symptom?,SYMPTOMS
+What is the STI risk from sex with a new partner?,TRANSMISSION
+What test detects gonorrhoea?,TESTING
+How are bacterial STIs managed?,TREATMENT
+How does gonorrhoea usually present?,SYMPTOMS
+How can I prevent herpes?,PREVENTION
+Can gonorrhoea be cured?,TREATMENT
+Do I need a prescription for STI treatment?,MEDICATION
+What treatment is used for trichomoniasis?,TREATMENT
+How can someone catch syphilis?,TRANSMISSION
+My symptoms include fainting with severe pain; what should I do now?,URGENT_HEALTH_CONCERN
+What treatment is used for syphilis?,TREATMENT
+What STI prevention methods work?,PREVENTION
+I had sex with a new partner; what is my STI risk?,EXPOSURE_RISK
+What STI prevention methods work?,PREVENTION
+Why is partner notification important?,PARTNER_NOTIFICATION
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+Could I have been exposed through a condom breaking?,EXPOSURE_RISK
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+Do only promiscuous people get STIs?,MISCONCEPTION
+I heard you cannot have an STI without symptoms; is that correct?,MISCONCEPTION
+Can trichomoniasis spread during sex?,TRANSMISSION
+Can I get an STI from unprotected vaginal sex?,TRANSMISSION
+Do I need testing if I have no symptoms?,TESTING
+How does chlamydia usually present?,SYMPTOMS
+Should I take leftover antibiotics for an STI?,MEDICATION
+Can a test be too early after exposure?,WINDOW_PERIOD
+What should I do if my STI test is positive?,TREATMENT
+Should I take leftover antibiotics for an STI?,MEDICATION
+What should young adults know about STIs?,GENERAL_INFORMATION
+How soon after unprotected vaginal sex can I test?,WINDOW_PERIOD
+How can partners have safer sex?,PREVENTION
+What STI may cause burning when urinating?,SYMPTOMS
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+Does two condoms are always safer than one mean someone has an STI?,MISCONCEPTION
+Can you get an STI from a toilet seat?,MISCONCEPTION
+What STI may cause pelvic pain?,SYMPTOMS
+How can someone catch gonorrhoea?,TRANSMISSION
+Can HIV be cured?,TREATMENT
+How are bacterial STIs managed?,TREATMENT
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+How can partners have safer sex?,PREVENTION
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+Do I need testing if I have no symptoms?,TESTING
+Which STIs are common?,GENERAL_INFORMATION
+What symptoms can herpes cause?,SYMPTOMS
+I had a condom breaking; what is my STI risk?,EXPOSURE_RISK
+What STI may cause genital sores?,SYMPTOMS
+Can I be tested after risky sex?,TESTING
+How does syphilis usually present?,SYMPTOMS
+How does gonorrhoea usually present?,SYMPTOMS
+Do condoms help prevent HPV?,PREVENTION
+I heard you cannot have an STI without symptoms; is that correct?,MISCONCEPTION
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+Can I buy medicine for an STI myself?,MEDICATION
+Can I buy medicine for an STI myself?,MEDICATION
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+Should I test after a condom breaking?,TESTING
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+Which signs are common with trichomoniasis?,SYMPTOMS
+Should I tell my partner if I have HPV?,PARTNER_NOTIFICATION
+I had unprotected vaginal sex; what is my STI risk?,EXPOSURE_RISK
+Can a test be too early after exposure?,WINDOW_PERIOD
+Does oral sex transmit STIs?,TRANSMISSION
+Can I be tested after risky sex?,TESTING
+What is syphilis?,GENERAL_INFORMATION
+Should I take leftover antibiotics for an STI?,MEDICATION
+Do only promiscuous people get STIs?,MISCONCEPTION
+I have a genital rash; could this be an STI?,SYMPTOMS
+How is herpes transmitted?,TRANSMISSION
+What medicine is used for HPV?,MEDICATION
+Can I get an STI from sex with a new partner?,TRANSMISSION
+What should young adults know about STIs?,GENERAL_INFORMATION
+What test detects trichomoniasis?,TESTING
+Which signs are common with syphilis?,SYMPTOMS
+What treatment is used for gonorrhoea?,TREATMENT
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+When is testing reliable after exposure?,WINDOW_PERIOD
+Can a test be too early after exposure?,WINDOW_PERIOD
+Can you explain STI basics?,GENERAL_INFORMATION
+How is herpes transmitted?,TRANSMISSION
+Should I test after anal sex?,TESTING
+What is the STI risk from sex with a new partner?,TRANSMISSION
+Can a test be too early after exposure?,WINDOW_PERIOD
+Should I tell my partner if I have herpes?,PARTNER_NOTIFICATION
+What is the window period for an STI test?,WINDOW_PERIOD
+What is the window period for an STI test?,WINDOW_PERIOD
+Can I get an STI from sex with a new partner?,TRANSMISSION
+Is fainting with severe pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+Do I need a clinician for STI treatment?,TREATMENT
+How long should I wait before testing?,WINDOW_PERIOD
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+Can I be tested after risky sex?,TESTING
+What is the window period for an STI test?,WINDOW_PERIOD
+What protects people from STIs?,PREVENTION
+Can my partner be treated too?,PARTNER_NOTIFICATION
+Is itching an STI symptom?,SYMPTOMS
+Which STIs are common?,GENERAL_INFORMATION
+My symptoms include high fever and pelvic pain; what should I do now?,URGENT_HEALTH_CONCERN
+Does a condom breaking transmit STIs?,TRANSMISSION
+How are bacterial STIs managed?,TREATMENT
+How long should I wait before testing?,WINDOW_PERIOD
+Can a test be too early after exposure?,WINDOW_PERIOD
+Do I need a prescription for STI treatment?,MEDICATION
+How are bacterial STIs managed?,TREATMENT
+Where can I get tested for syphilis?,TESTING
+How can someone catch syphilis?,TRANSMISSION
+Tell me about trichomoniasis.,GENERAL_INFORMATION
+What STI prevention methods work?,PREVENTION
+What STI may cause a genital rash?,SYMPTOMS
+Should I test after unprotected vaginal sex?,TESTING
+Can gonorrhoea spread during sex?,TRANSMISSION
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+Why is partner notification important?,PARTNER_NOTIFICATION
+Can I be tested after risky sex?,TESTING
+How can partners have safer sex?,PREVENTION
+Can I buy medicine for an STI myself?,MEDICATION
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+Tell me about syphilis.,GENERAL_INFORMATION
+Are antibiotics used for trichomoniasis?,MEDICATION
+How do I reduce my STI risk?,PREVENTION
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+How can I prevent gonorrhoea?,PREVENTION
+How are bacterial STIs managed?,TREATMENT
+What symptoms can chlamydia cause?,SYMPTOMS
+Can I get an STI from a condom breaking?,TRANSMISSION
+How can partners have safer sex?,PREVENTION
+Can I get an STI from sex with a new partner?,TRANSMISSION
+Can I use someone else's STI medicine?,MEDICATION
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+Should I tell my partner if I have chlamydia?,PARTNER_NOTIFICATION
+I had sex one week ago; is it too soon to test?,WINDOW_PERIOD
+Can chlamydia spread during sex?,TRANSMISSION
+How is HIV transmitted?,TRANSMISSION
+I want basic information about STIs.,GENERAL_INFORMATION
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+I have fainting with severe pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+Should I tell my partner if I have chlamydia?,PARTNER_NOTIFICATION
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+What treatment is used for syphilis?,TREATMENT
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+Do I need a clinician for STI treatment?,TREATMENT
+How soon after a condom breaking can I test?,WINDOW_PERIOD
+Can I be tested after risky sex?,TESTING
+Can my partner be treated too?,PARTNER_NOTIFICATION
+I have high fever and pelvic pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+How long should I wait before testing?,WINDOW_PERIOD
+How can someone catch gonorrhoea?,TRANSMISSION
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+What protects people from STIs?,PREVENTION
+What is trichomoniasis?,GENERAL_INFORMATION
+I want basic information about STIs.,GENERAL_INFORMATION
+Do I need a clinician for STI treatment?,TREATMENT
+Can I buy medicine for an STI myself?,MEDICATION
+What symptoms can herpes cause?,SYMPTOMS
+I want basic information about STIs.,GENERAL_INFORMATION
+What test detects chlamydia?,TESTING
+My symptoms include high fever and pelvic pain; what should I do now?,URGENT_HEALTH_CONCERN
+Can HIV spread during sex?,TRANSMISSION
+Can herpes be cured?,TREATMENT
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+Which signs are common with gonorrhoea?,SYMPTOMS
+Can syphilis spread during sex?,TRANSMISSION
+Should I take leftover antibiotics for an STI?,MEDICATION
+Do condoms help prevent herpes?,PREVENTION
+Is a genital rash an STI symptom?,SYMPTOMS
+Should I take leftover antibiotics for an STI?,MEDICATION
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+Do only promiscuous people get STIs?,MISCONCEPTION
+I had a new partner two days ago; should I be concerned?,EXPOSURE_RISK
+I have burning when urinating; could this be an STI?,SYMPTOMS
+What should I do if my STI test is positive?,TREATMENT
+When is testing reliable after exposure?,WINDOW_PERIOD
+Is severe pelvic pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+Which signs are common with chlamydia?,SYMPTOMS
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+I heard washing after sex prevents infection; is that correct?,MISCONCEPTION
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+Why is partner notification important?,PARTNER_NOTIFICATION
+Can my partner be treated too?,PARTNER_NOTIFICATION
+How is HPV transmitted?,TRANSMISSION
+When is testing reliable after exposure?,WINDOW_PERIOD
+How soon after anal sex can I test?,WINDOW_PERIOD
+I had a new partner last month; should I be concerned?,EXPOSURE_RISK
+Can you explain STI basics?,GENERAL_INFORMATION
+What is the STI risk from oral sex?,TRANSMISSION
+What test detects syphilis?,TESTING
+I have fainting with severe pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+Are antibiotics used for HPV?,MEDICATION
+Is two condoms are always safer than one true about STIs?,MISCONCEPTION
+What protects people from STIs?,PREVENTION
+Do I need testing if I have no symptoms?,TESTING
+Do only promiscuous people get STIs?,MISCONCEPTION
+Can a test be too early after exposure?,WINDOW_PERIOD
+Which STIs are common?,GENERAL_INFORMATION
+What treatment is used for HPV?,TREATMENT
+I have genital sores; could this be an STI?,SYMPTOMS
+Can you explain STI basics?,GENERAL_INFORMATION
+How can someone catch HPV?,TRANSMISSION
+What protects people from STIs?,PREVENTION
+Are antibiotics used for HPV?,MEDICATION
+I heard washing after sex prevents infection; is that correct?,MISCONCEPTION
+What symptoms can chlamydia cause?,SYMPTOMS
+What is the STI risk from anal sex?,TRANSMISSION
+Tell me about gonorrhoea.,GENERAL_INFORMATION
+Can syphilis be cured?,TREATMENT
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+Can my partner be treated too?,PARTNER_NOTIFICATION
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+How soon after anal sex can I test?,WINDOW_PERIOD
+Tell me about chlamydia.,GENERAL_INFORMATION
+When is testing reliable after exposure?,WINDOW_PERIOD
+Can a test be too early after exposure?,WINDOW_PERIOD
+What is HIV?,GENERAL_INFORMATION
+I had a new partner two days ago; should I be concerned?,EXPOSURE_RISK
+Do I need a clinician for STI treatment?,TREATMENT
+Can you explain STI basics?,GENERAL_INFORMATION
+Should I take leftover antibiotics for an STI?,MEDICATION
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+Can you explain STI basics?,GENERAL_INFORMATION
+I had a new partner two days ago; should I be concerned?,EXPOSURE_RISK
+How long should I wait before testing?,WINDOW_PERIOD
+My symptoms include fainting with severe pain; what should I do now?,URGENT_HEALTH_CONCERN
+What medicine is used for HPV?,MEDICATION
+How can partners have safer sex?,PREVENTION
+What medicine is used for herpes?,MEDICATION
+How risky is oral sex for an STI?,EXPOSURE_RISK
+My symptoms include severe pelvic pain; what should I do now?,URGENT_HEALTH_CONCERN
+Are antibiotics used for gonorrhoea?,MEDICATION
+Do I need a clinician for STI treatment?,TREATMENT
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+What test detects chlamydia?,TESTING
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+Could I have been exposed through anal sex?,EXPOSURE_RISK
+How can someone catch herpes?,TRANSMISSION
+Which STIs are common?,GENERAL_INFORMATION
+Should I tell my partner if I have trichomoniasis?,PARTNER_NOTIFICATION
+I had sex one week ago; is it too soon to test?,WINDOW_PERIOD
+Can I use someone else's STI medicine?,MEDICATION
+Is high fever and pelvic pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+Can my partner be treated too?,PARTNER_NOTIFICATION
+Do condoms help prevent HIV?,PREVENTION
+I had a condom breaking; what is my STI risk?,EXPOSURE_RISK
+I had a new partner one week ago; should I be concerned?,EXPOSURE_RISK
+How is HPV treated?,TREATMENT
+Can you explain STI basics?,GENERAL_INFORMATION
+What should young adults know about STIs?,GENERAL_INFORMATION
+What is the window period for an STI test?,WINDOW_PERIOD
+Could I have been exposed through sex with a new partner?,EXPOSURE_RISK
+How can someone catch HPV?,TRANSMISSION
+How is gonorrhoea treated?,TREATMENT
+What STI may cause testicular pain?,SYMPTOMS
+Can chlamydia spread during sex?,TRANSMISSION
+Should I test after unprotected vaginal sex?,TESTING
+I had a condom breaking; what is my STI risk?,EXPOSURE_RISK
+What should young adults know about STIs?,GENERAL_INFORMATION
+Can I buy medicine for an STI myself?,MEDICATION
+Is severe testicular pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+I have testicular pain; could this be an STI?,SYMPTOMS
+Could I have been exposed through unprotected vaginal sex?,EXPOSURE_RISK
+Do condoms help prevent trichomoniasis?,PREVENTION
+Can a test be too early after exposure?,WINDOW_PERIOD
+I had sex three weeks ago; is it too soon to test?,WINDOW_PERIOD
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+How do I reduce my STI risk?,PREVENTION
+How are bacterial STIs managed?,TREATMENT
+Can HPV spread during sex?,TRANSMISSION
+Is severe pelvic pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+What should young adults know about STIs?,GENERAL_INFORMATION
+Can you explain STI basics?,GENERAL_INFORMATION
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+Can herpes spread during sex?,TRANSMISSION
+I had oral sex; what is my STI risk?,EXPOSURE_RISK
+I have fainting with severe pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+Is washing after sex prevents infection true about STIs?,MISCONCEPTION
+My symptoms include severe testicular pain; what should I do now?,URGENT_HEALTH_CONCERN
+I had sex three weeks ago; is it too soon to test?,WINDOW_PERIOD
+Does washing after sex prevents infection mean someone has an STI?,MISCONCEPTION
+How long should I wait before testing?,WINDOW_PERIOD
+Should I test after sex with a new partner?,TESTING
+Can syphilis be cured?,TREATMENT
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+How can partners have safer sex?,PREVENTION
+Should I test after oral sex?,TESTING
+I had sex with a new partner; what is my STI risk?,EXPOSURE_RISK
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+What treatment is used for chlamydia?,TREATMENT
+Can you explain STI basics?,GENERAL_INFORMATION
+Do only promiscuous people get STIs?,MISCONCEPTION
+Do I need a prescription for STI treatment?,MEDICATION
+Can I be tested after risky sex?,TESTING
+Can you explain STI basics?,GENERAL_INFORMATION
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+Is high fever and pelvic pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+How can I prevent HPV?,PREVENTION
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+Does unprotected vaginal sex transmit STIs?,TRANSMISSION
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+What treatment is used for gonorrhoea?,TREATMENT
+What medicine is used for herpes?,MEDICATION
+How can I prevent gonorrhoea?,PREVENTION
+Does oral sex transmit STIs?,TRANSMISSION
+Can chlamydia spread during sex?,TRANSMISSION
+Can I use someone else's STI medicine?,MEDICATION
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+I want basic information about STIs.,GENERAL_INFORMATION
+Is a genital rash an STI symptom?,SYMPTOMS
+I heard two condoms are always safer than one; is that correct?,MISCONCEPTION
+How is chlamydia transmitted?,TRANSMISSION
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+Do I need a prescription for STI treatment?,MEDICATION
+Could I have been exposed through a condom breaking?,EXPOSURE_RISK
+Can trichomoniasis be cured?,TREATMENT
+Do I need testing if I have no symptoms?,TESTING
+Could I have been exposed through a condom breaking?,EXPOSURE_RISK
+What should young adults know about STIs?,GENERAL_INFORMATION
+How is HPV transmitted?,TRANSMISSION
+Can I get an STI from oral sex?,TRANSMISSION
+Do condoms help prevent herpes?,PREVENTION
+How is HIV transmitted?,TRANSMISSION
+Which STIs are common?,GENERAL_INFORMATION
+How long should I wait before testing?,WINDOW_PERIOD
+Why is partner notification important?,PARTNER_NOTIFICATION
+Does two condoms are always safer than one mean someone has an STI?,MISCONCEPTION
+Can my partner be treated too?,PARTNER_NOTIFICATION
+Could I have been exposed through anal sex?,EXPOSURE_RISK
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+I want basic information about STIs.,GENERAL_INFORMATION
+Can you explain STI basics?,GENERAL_INFORMATION
+Where can I get tested for chlamydia?,TESTING
+Is you cannot have an STI without symptoms true about STIs?,MISCONCEPTION
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+Does two condoms are always safer than one mean someone has an STI?,MISCONCEPTION
+Can herpes spread during sex?,TRANSMISSION
+What should I do if my STI test is positive?,TREATMENT
+How can I prevent HPV?,PREVENTION
+Where can I get tested for gonorrhoea?,TESTING
+Is washing after sex prevents infection true about STIs?,MISCONCEPTION
+Where can I get tested for HIV?,TESTING
+Which STIs are common?,GENERAL_INFORMATION
+I had a condom breaking; what is my STI risk?,EXPOSURE_RISK
+Can gonorrhoea spread during sex?,TRANSMISSION
+Do I need a clinician for STI treatment?,TREATMENT
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+I want basic information about STIs.,GENERAL_INFORMATION
+What STI prevention methods work?,PREVENTION
+I had a new partner last month; should I be concerned?,EXPOSURE_RISK
+I heard you cannot have an STI without symptoms; is that correct?,MISCONCEPTION
+What medicine is used for herpes?,MEDICATION
+I have severe testicular pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+How does HPV usually present?,SYMPTOMS
+How long should I wait before testing?,WINDOW_PERIOD
+Does STIs only affect older people mean someone has an STI?,MISCONCEPTION
+How can someone catch HPV?,TRANSMISSION
+Can you get an STI from a toilet seat?,MISCONCEPTION
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+Can my partner be treated too?,PARTNER_NOTIFICATION
+Is fainting with severe pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+I have unusual genital discharge; could this be an STI?,SYMPTOMS
+What test detects herpes?,TESTING
+Can HPV spread during sex?,TRANSMISSION
+Do condoms help prevent syphilis?,PREVENTION
+How is gonorrhoea treated?,TREATMENT
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+Can I get an STI from a condom breaking?,TRANSMISSION
+How long should I wait before testing?,WINDOW_PERIOD
+How risky is a condom breaking for an STI?,EXPOSURE_RISK
+I heard two condoms are always safer than one; is that correct?,MISCONCEPTION
+Can I buy medicine for an STI myself?,MEDICATION
+What is the window period for an STI test?,WINDOW_PERIOD
+Do condoms help prevent herpes?,PREVENTION
+Is two condoms are always safer than one true about STIs?,MISCONCEPTION
+What is the STI risk from a condom breaking?,TRANSMISSION
+Is itching an STI symptom?,SYMPTOMS
+Why is partner notification important?,PARTNER_NOTIFICATION
+Is washing after sex prevents infection true about STIs?,MISCONCEPTION
+What treatment is used for chlamydia?,TREATMENT
+How long should I wait before testing?,WINDOW_PERIOD
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+What medicine is used for trichomoniasis?,MEDICATION
+How is HIV transmitted?,TRANSMISSION
+I had sex last month; is it too soon to test?,WINDOW_PERIOD
+Can you get an STI from a toilet seat?,MISCONCEPTION
+What symptoms can gonorrhoea cause?,SYMPTOMS
+Can you get an STI from a toilet seat?,MISCONCEPTION
+I had sex three weeks ago; is it too soon to test?,WINDOW_PERIOD
+What symptoms can HIV cause?,SYMPTOMS
+Can I use someone else's STI medicine?,MEDICATION
+Do I need a prescription for STI treatment?,MEDICATION
+What should young adults know about STIs?,GENERAL_INFORMATION
+Can gonorrhoea spread during sex?,TRANSMISSION
+Should I test after a condom breaking?,TESTING
+Is itching an STI symptom?,SYMPTOMS
+What is the window period for an STI test?,WINDOW_PERIOD
+How do doctors test for HIV?,TESTING
+How can someone catch syphilis?,TRANSMISSION
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+What should young adults know about STIs?,GENERAL_INFORMATION
+Should I tell my partner if I have trichomoniasis?,PARTNER_NOTIFICATION
+When is testing reliable after exposure?,WINDOW_PERIOD
+What is the window period for an STI test?,WINDOW_PERIOD
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+How risky is anal sex for an STI?,EXPOSURE_RISK
+How does gonorrhoea usually present?,SYMPTOMS
+Is fainting with severe pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+How soon after oral sex can I test?,WINDOW_PERIOD
+What is the STI risk from anal sex?,TRANSMISSION
+Which signs are common with chlamydia?,SYMPTOMS
+Should I test after sex with a new partner?,TESTING
+What is the STI risk from a condom breaking?,TRANSMISSION
+I had sex two days ago; is it too soon to test?,WINDOW_PERIOD
+Which STIs are common?,GENERAL_INFORMATION
+Do condoms help prevent HIV?,PREVENTION
+Could I have been exposed through unprotected vaginal sex?,EXPOSURE_RISK
+Can herpes spread during sex?,TRANSMISSION
+Do I need testing if I have no symptoms?,TESTING
+How can someone catch syphilis?,TRANSMISSION
+What should I do if my STI test is positive?,TREATMENT
+Can a test be too early after exposure?,WINDOW_PERIOD
+Can HIV be cured?,TREATMENT
+How is gonorrhoea treated?,TREATMENT
+Do I need a prescription for STI treatment?,MEDICATION
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+Can HPV be cured?,TREATMENT
+Do only promiscuous people get STIs?,MISCONCEPTION
+I had a new partner one week ago; should I be concerned?,EXPOSURE_RISK
+Can HPV be cured?,TREATMENT
+I had anal sex; what is my STI risk?,EXPOSURE_RISK
+Can you explain STI basics?,GENERAL_INFORMATION
+I had a new partner three weeks ago; should I be concerned?,EXPOSURE_RISK
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+Does unprotected vaginal sex transmit STIs?,TRANSMISSION
+How risky is sex with a new partner for an STI?,EXPOSURE_RISK
+I have high fever and pelvic pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+Tell me about trichomoniasis.,GENERAL_INFORMATION
+What protects people from STIs?,PREVENTION
+I want basic information about STIs.,GENERAL_INFORMATION
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+Can a test be too early after exposure?,WINDOW_PERIOD
+Do I need a clinician for STI treatment?,TREATMENT
+What medicine is used for herpes?,MEDICATION
+I have fainting with severe pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+My symptoms include severe pelvic pain; what should I do now?,URGENT_HEALTH_CONCERN
+I want basic information about STIs.,GENERAL_INFORMATION
+Do I need a clinician for STI treatment?,TREATMENT
+What STI prevention methods work?,PREVENTION
+What is the window period for an STI test?,WINDOW_PERIOD
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+Which signs are common with HPV?,SYMPTOMS
+What STI prevention methods work?,PREVENTION
+Can trichomoniasis be cured?,TREATMENT
+Are antibiotics used for herpes?,MEDICATION
+How can I prevent herpes?,PREVENTION
+Why is partner notification important?,PARTNER_NOTIFICATION
+Which signs are common with HPV?,SYMPTOMS
+How is gonorrhoea transmitted?,TRANSMISSION
+I have severe pelvic pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+Should I take leftover antibiotics for an STI?,MEDICATION
+How long should I wait before testing?,WINDOW_PERIOD
+Should I test after oral sex?,TESTING
+What medicine is used for HIV?,MEDICATION
+Can I get an STI from sex with a new partner?,TRANSMISSION
+Should I tell my partner if I have herpes?,PARTNER_NOTIFICATION
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+What symptoms can gonorrhoea cause?,SYMPTOMS
+What test detects trichomoniasis?,TESTING
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+How can partners have safer sex?,PREVENTION
+How risky is anal sex for an STI?,EXPOSURE_RISK
+What medicine is used for HPV?,MEDICATION
+Should I test after sex with a new partner?,TESTING
+Are antibiotics used for syphilis?,MEDICATION
+Do I need testing if I have no symptoms?,TESTING
+Is genital sores an STI symptom?,SYMPTOMS
+Should I take leftover antibiotics for an STI?,MEDICATION
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+How do I reduce my STI risk?,PREVENTION
+What treatment is used for HIV?,TREATMENT
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+What medicine is used for chlamydia?,MEDICATION
+Should I take leftover antibiotics for an STI?,MEDICATION
+How do I reduce my STI risk?,PREVENTION
+Can I use someone else's STI medicine?,MEDICATION
+What STI prevention methods work?,PREVENTION
+Could I have been exposed through sex with a new partner?,EXPOSURE_RISK
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+Which STIs are common?,GENERAL_INFORMATION
+I heard two condoms are always safer than one; is that correct?,MISCONCEPTION
+Which signs are common with syphilis?,SYMPTOMS
+How can I prevent chlamydia?,PREVENTION
+How is HPV treated?,TREATMENT
+What symptoms can HPV cause?,SYMPTOMS
+Can herpes be cured?,TREATMENT
+Do I need a clinician for STI treatment?,TREATMENT
+What medicine is used for herpes?,MEDICATION
+I had sex one week ago; is it too soon to test?,WINDOW_PERIOD
+Can a test be too early after exposure?,WINDOW_PERIOD
+I have intense pain and fever after sexual exposure.,URGENT_HEALTH_CONCERN
+Is STIs only affect older people true about STIs?,MISCONCEPTION
+Tell me about syphilis.,GENERAL_INFORMATION
+How is HPV treated?,TREATMENT
+My genital symptoms are severe and getting worse.,URGENT_HEALTH_CONCERN
+I heard STIs only affect older people; is that correct?,MISCONCEPTION
+I have severe testicular pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+I had sex two days ago; is it too soon to test?,WINDOW_PERIOD
+What should I do if my STI test is positive?,TREATMENT
+How is herpes transmitted?,TRANSMISSION
+What STI may cause testicular pain?,SYMPTOMS
+Can I buy medicine for an STI myself?,MEDICATION
+How do doctors test for herpes?,TESTING
+Are antibiotics used for HPV?,MEDICATION
+How is HIV treated?,TREATMENT
+How does chlamydia usually present?,SYMPTOMS
+Is washing after sex prevents infection true about STIs?,MISCONCEPTION
+Does washing after sex prevents infection mean someone has an STI?,MISCONCEPTION
+When is testing reliable after exposure?,WINDOW_PERIOD
+Can you get an STI from a toilet seat?,MISCONCEPTION
+How can someone catch gonorrhoea?,TRANSMISSION
+Tell me about HIV.,GENERAL_INFORMATION
+What test detects herpes?,TESTING
+Which STIs are common?,GENERAL_INFORMATION
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+Can my partner be treated too?,PARTNER_NOTIFICATION
+I feel very unwell after a possible STI exposure.,URGENT_HEALTH_CONCERN
+How can partners have safer sex?,PREVENTION
+Is fainting with severe pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+How risky is oral sex for an STI?,EXPOSURE_RISK
+What should I do if my STI test is positive?,TREATMENT
+How do doctors test for trichomoniasis?,TESTING
+Is genital sores an STI symptom?,SYMPTOMS
+Can I be tested after risky sex?,TESTING
+I have severe pelvic pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+How are bacterial STIs managed?,TREATMENT
+What should young adults know about STIs?,GENERAL_INFORMATION
+Can I use someone else's STI medicine?,MEDICATION
+Can my partner be treated too?,PARTNER_NOTIFICATION
+Is severe testicular pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+Can trichomoniasis spread during sex?,TRANSMISSION
+What is the STI risk from a condom breaking?,TRANSMISSION
+I want basic information about STIs.,GENERAL_INFORMATION
+What should I do if my STI test is positive?,TREATMENT
+What should I do if my STI test is positive?,TREATMENT
+Is burning when urinating an STI symptom?,SYMPTOMS
+Could I have been exposed through anal sex?,EXPOSURE_RISK
+How do doctors test for gonorrhoea?,TESTING
+Where can I get tested for chlamydia?,TESTING
+Can I get an STI from a condom breaking?,TRANSMISSION
+What is the window period for an STI test?,WINDOW_PERIOD
+Do I need a clinician for STI treatment?,TREATMENT
+Are antibiotics used for trichomoniasis?,MEDICATION
+Do condoms help prevent HIV?,PREVENTION
+How soon after a condom breaking can I test?,WINDOW_PERIOD
+I have high fever and pelvic pain; should I seek urgent care?,URGENT_HEALTH_CONCERN
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+Does my partner need testing after my positive STI test?,PARTNER_NOTIFICATION
+How do doctors test for HIV?,TESTING
+Is severe pelvic pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+What is the STI risk from anal sex?,TRANSMISSION
+Where can I get tested for HIV?,TESTING
+How risky is a condom breaking for an STI?,EXPOSURE_RISK
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+How risky is unprotected vaginal sex for an STI?,EXPOSURE_RISK
+Do only promiscuous people get STIs?,MISCONCEPTION
+How can partners have safer sex?,PREVENTION
+What should I do if my STI test is positive?,TREATMENT
+Tell me about syphilis.,GENERAL_INFORMATION
+What is the STI risk from sex with a new partner?,TRANSMISSION
+Are antibiotics used for HIV?,MEDICATION
+What should young adults know about STIs?,GENERAL_INFORMATION
+Can I buy medicine for an STI myself?,MEDICATION
+How can I prevent trichomoniasis?,PREVENTION
+Should I tell my partner if I have herpes?,PARTNER_NOTIFICATION
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+What symptoms can chlamydia cause?,SYMPTOMS
+Is a genital rash an STI symptom?,SYMPTOMS
+Can HPV be cured?,TREATMENT
+What STI may cause burning when urinating?,SYMPTOMS
+Should I tell my partner if I have trichomoniasis?,PARTNER_NOTIFICATION
+How can partners have safer sex?,PREVENTION
+When is testing reliable after exposure?,WINDOW_PERIOD
+Can my partner be treated too?,PARTNER_NOTIFICATION
+Are antibiotics used for gonorrhoea?,MEDICATION
+Who should I tell after an STI diagnosis?,PARTNER_NOTIFICATION
+What medicine is used for herpes?,MEDICATION
+Where can I get tested for HIV?,TESTING
+Can I use someone else's STI medicine?,MEDICATION
+What STI may cause itching?,SYMPTOMS
+What is gonorrhoea?,GENERAL_INFORMATION
+I heard washing after sex prevents infection; is that correct?,MISCONCEPTION
+How is syphilis transmitted?,TRANSMISSION
+I had unprotected sex and am worried about infection.,EXPOSURE_RISK
+What is gonorrhoea?,GENERAL_INFORMATION
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+How do I reduce my STI risk?,PREVENTION
+What protects people from STIs?,PREVENTION
+Can I use someone else's STI medicine?,MEDICATION
+Does you cannot have an STI without symptoms mean someone has an STI?,MISCONCEPTION
+How long should I wait before testing?,WINDOW_PERIOD
+What is the window period for an STI test?,WINDOW_PERIOD
+What STI may cause unusual genital discharge?,SYMPTOMS
+Does anal sex transmit STIs?,TRANSMISSION
+How are bacterial STIs managed?,TREATMENT
+How does syphilis usually present?,SYMPTOMS
+What is HIV?,GENERAL_INFORMATION
+Do I need testing if I have no symptoms?,TESTING
+What should I do if my STI test is positive?,TREATMENT
+Are antibiotics used for trichomoniasis?,MEDICATION
+Is testicular pain an STI symptom?,SYMPTOMS
+I had sex two days ago; is it too soon to test?,WINDOW_PERIOD
+Should I test after anal sex?,TESTING
+What test detects HIV?,TESTING
+What protects people from STIs?,PREVENTION
+Do I need testing if I have no symptoms?,TESTING
+How risky is sex with a new partner for an STI?,EXPOSURE_RISK
+What should I do if my STI test is positive?,TREATMENT
+Can HPV be cured?,TREATMENT
+Is two condoms are always safer than one true about STIs?,MISCONCEPTION
+What is the STI risk from anal sex?,TRANSMISSION
+What should young adults know about STIs?,GENERAL_INFORMATION
+How are bacterial STIs managed?,TREATMENT
+A condom broke during sex; what should I do?,EXPOSURE_RISK
+How can partners have safer sex?,PREVENTION
+What STI prevention methods work?,PREVENTION
+What test detects syphilis?,TESTING
+Are antibiotics used for HPV?,MEDICATION
+How can partners have safer sex?,PREVENTION
+What should I do if my STI test is positive?,TREATMENT
+I heard two condoms are always safer than one; is that correct?,MISCONCEPTION
+Can I be tested after risky sex?,TESTING
+How can partners have safer sex?,PREVENTION
+What is HPV?,GENERAL_INFORMATION
+Can I get an STI from unprotected vaginal sex?,TRANSMISSION
+Do only promiscuous people get STIs?,MISCONCEPTION
+Can I buy medicine for an STI myself?,MEDICATION
+Can I buy medicine for an STI myself?,MEDICATION
+Can you get an STI from a toilet seat?,MISCONCEPTION
+Tell me about gonorrhoea.,GENERAL_INFORMATION
+What symptoms can HIV cause?,SYMPTOMS
+How risky is oral sex for an STI?,EXPOSURE_RISK
+What is herpes?,GENERAL_INFORMATION
+How do I inform a sexual partner about an STI?,PARTNER_NOTIFICATION
+What STI may cause pelvic pain?,SYMPTOMS
+What protects people from STIs?,PREVENTION
+Which signs are common with trichomoniasis?,SYMPTOMS
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+Can my partner be treated too?,PARTNER_NOTIFICATION
+Can I be tested after risky sex?,TESTING
+How do doctors test for herpes?,TESTING
+How does trichomoniasis usually present?,SYMPTOMS
+Where can I get tested for syphilis?,TESTING
+Where can I get tested for HIV?,TESTING
+How do doctors test for chlamydia?,TESTING
+Can a test be too early after exposure?,WINDOW_PERIOD
+Is STIs only affect older people true about STIs?,MISCONCEPTION
+I had sex two days ago; is it too soon to test?,WINDOW_PERIOD
+Should I tell my partner if I have herpes?,PARTNER_NOTIFICATION
+How do doctors test for gonorrhoea?,TESTING
+Can I tell someone has an STI by looking at them?,MISCONCEPTION
+Is severe testicular pain an emergency with a possible STI?,URGENT_HEALTH_CONCERN
+Do only promiscuous people get STIs?,MISCONCEPTION
+When is testing reliable after exposure?,WINDOW_PERIOD
+What test detects herpes?,TESTING
+What medicine is used for HPV?,MEDICATION
+Can you get an STI from a toilet seat?,MISCONCEPTION
+How are bacterial STIs managed?,TREATMENT
+How is chlamydia treated?,TREATMENT

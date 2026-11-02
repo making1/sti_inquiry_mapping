@@ -1,0 +1,17 @@
+Integrated V18 + STI inquiry mapping validation
+Date: 2026-11-02
+Python: 3.13; Streamlit: 1.64.0; scikit-learn: 1.8.0
+
+PASS: 8 unit tests (weekly baselines, privacy suppression, distinct sessions, incomplete weeks, case-rate validation, standalone signal tests).
+PASS: Python compilation.
+PASS: standalone synthetic pipeline demo and HTML generation.
+PASS: headless Streamlit learner startup and question submission with bundled intent/entity models.
+PASS: admin navigation, Mapping & validation tab and empty-data state.
+PASS: synthetic consented SQLite records -> county-week chart/map.
+PASS: surveillance upload panel rendering; case-rate calculation tested separately.
+PASS: bundled evaluation artifact rendering.
+PASS: annotated synthetic CSV -> validation button -> temporal metrics.
+
+UI tests used a temporary copy/database. No live database or private secrets were modified or packaged.
+Tests check behavior and calculations, not browser pixel layout or clinical validity. The synthetic demo score is not a real-world estimate.
+No extraction ground-truth evaluation, epidemiological outbreak validation, or production deployment was performed.
